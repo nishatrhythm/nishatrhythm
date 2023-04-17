@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/nishatrhythm" target="blank"><img src="https://img.shields.io/twitter/follow/nishatrhythm?logo=twitter&style=for-the-badge" alt="nishatrhythm" /></a> </p>
 
-- 🔭 I’m currently working on [front-end development.](github.com/nishatrhythm)
+- 🔭 I’m currently working on [front-end development.](https://github.com/nishatrhythm?tab=repositories)
 
 - 🌱 I’m currently learning **PHP.**
 
-- 👨‍💻 All of my projects are available at [github.com/nishatrhythm](github.com/nishatrhythm)
+- 👨‍💻 All of my projects are available at [github.com/nishatrhythm](https://github.com/nishatrhythm?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript and front-end development.**
 
 - 📫 How to reach me **nishatrhythm@gmail.com**
 
-- 📄 Know about my experiences [nishatrhythm.github.io](nishatrhythm.github.io)
+- 📄 Know about my experiences [nishatrhythm.github.io](https://nishatrhythm.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
