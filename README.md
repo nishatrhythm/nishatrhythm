@@ -31,7 +31,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
                 alt="nishatmahmud" height="40" width="40" /></a>
         <a href="https://twitter.com/nishatrhythm" target="blank"><img align="center"
-                src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_Twitter%2C_Inc..svg"
+                src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
                 alt="nishatrhythm" height="40" width="40" /></a>
         <a href="https://linkedin.com/in/nishatrhythm" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
