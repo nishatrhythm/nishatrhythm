@@ -12,14 +12,14 @@
                 src="https://img.shields.io/twitter/follow/nishatrhythm?logo=twitter&style=for-the-badge"
                 alt="nishatrhythm" /></a> </p>
 
-   - 🔭 I’m currently working on [front-end development.](https://github.com/nishatrhythm?tab=repositories)
+   - 🔭 I’m currently working on [Android development.](https://github.com/nishatrhythm?tab=repositories)
 
-   - 🌱 I’m currently learning **PHP.**
+   - 🌱 I’m currently learning **Kotlin.**
 
    - 👨‍💻 All of my projects are available at
     [github.com/nishatrhythm](https://github.com/nishatrhythm?tab=repositories)
 
-   - 💬 Ask me about **HTML, CSS, JavaScript and front-end development.**
+   - 💬 Ask me about **Kotlin, Jetpack Compose and Android development.**
 
    - 📫 How to reach me **nishatrhythm@gmail.com**
 
