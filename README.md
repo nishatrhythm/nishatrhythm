@@ -27,27 +27,27 @@
 
    <h3 align="left">Connect with me:</h3>
     <p align="left">
-        <a href="https://codepen.io/nishatmahmud" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-                alt="nishatmahmud" height="40" width="40" /></a>
-        <a href="https://twitter.com/nishatrhythm" target="blank"><img align="center"
-                src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
-                alt="nishatrhythm" height="40" width="40" /></a>
-        <a href="https://linkedin.com/in/nishatrhythm" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="nishatrhythm" height="40" width="40" /></a>
-        <a href="https://fb.com/nishatrhythm" target="blank"><img align="center"
+        <a href="https://facebook.com/nishatrhythm" target="blank"><img align="center"
                 src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
                 alt="nishatrhythm" height="40" width="40" /></a>
         <a href="https://instagram.com/nishatrhythm" target="blank"><img align="center"
                 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
                 alt="nishatrhythm" height="40" width="40" /></a>
-        <a href="https://www.behance.net/nishatrhythm" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
+        <a href="https://x.com/nishatrhythm" target="blank"><img align="center"
+                src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"
+                alt="nishatrhythm" height="40" width="40" /></a>
+        <a href="https://linkedin.com/in/nishatrhythm" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="nishatrhythm" height="40" width="40" /></a>
         <a href="https://www.youtube.com/c/wikitricks" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
                 alt="wikitricks" height="40" width="40" /></a>
+        <a href="https://www.behance.net/nishatrhythm" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
+                alt="nishatrhythm" height="40" width="40" /></a>
+        <a href="https://codepen.io/nishatmahmud" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+                alt="nishatmahmud" height="40" width="40" /></a>
         <a href="https://codeforces.com/profile/nishatrhythm" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
                 alt="nishatrhythm" height="40" width="40" /></a>
