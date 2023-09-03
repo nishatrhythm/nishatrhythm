@@ -58,15 +58,16 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-Design-red?style=for-the-badge&logo=adobe%20illustrator" alt="Adobe Illustrator">
 </p>
 
-<!-- Statistical Overview -->
-<h2 align="center">Statistical Overview</h2>
 <!-- GitHub Profile Trophy -->
-<div align="center">
+<h2 align="center">GitHub Profile Trophy</h2>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nishatrhythm&theme=radical" alt="GitHub Profile Trophy">
   </a>
-</div>
+</p>
 
+<!-- Statistical Overview -->
+<h2 align="center">Statistical Overview</h2>
 <!-- GitHub Stats, Top Languages, and Contribution Streak -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
