@@ -39,7 +39,7 @@
 </p>
 
 <!-- Skills Section -->
-<h2 align="center">Skills & Tools</h2>
+<h2 align="center">💼 Skills & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Development-green?style=for-the-badge&logo=android" alt="Android">
   <img src="https://img.shields.io/badge/Bootstrap-Framework-blue?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
@@ -59,7 +59,7 @@
 </p>
 
 <!-- GitHub Profile Trophy -->
-<h2 align="center">GitHub Profile Trophy</h2>
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nishatrhythm&theme=radical" alt="GitHub Profile Trophy">
@@ -67,7 +67,7 @@
 </p>
 
 <!-- Statistical Overview -->
-<h2 align="center">Statistical Overview</h2>
+<h2 align="center">📊 Statistical Overview</h2>
 <!-- GitHub Stats, Top Languages, and Contribution Streak -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
@@ -87,7 +87,7 @@
 </div>
 
 <!-- GitHub Repositories -->
-<h2 align="center">GitHub Repositories</h2>
+<h2 align="center">📦 GitHub Repositories</h2>
 <p align="center">
   <a href="https://github.com/nishatrhythm?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-black?style=for-the-badge&logo=github" alt="GitHub Repositories">
