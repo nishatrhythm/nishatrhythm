@@ -86,6 +86,41 @@
   </div>
 </div>
 
+<!-- Education -->
+<h2 align="center">📚 Education</h2>
+
+<!-- Education Table -->
+<table align="center">
+  <tr>
+    <th align="center">Year</th>
+    <th align="center">Degree</th>
+    <th align="center">Department / Group</th>
+    <th align="center">Institution</th>
+    <th align="center">Location</th>
+  </tr>
+  <tr>
+    <td align="center">2020 - Present</td>
+    <td align="center">Bachelor of Science (B.Sc)</td>
+    <td align="center">Computer Science and Engineering</td>
+    <td align="center">Jagannath University, Dhaka</td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2017 - 2019</td>
+    <td align="center">Higher Secondary School Certificate (HSC)</td>
+    <td align="center">Science</td>
+    <td align="center">Govt. Ananda Mohon College, Mymensingh</td>
+    <td align="center">Mymensingh, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2009 - 2017</td>
+    <td align="center">Secondary School Certificate (SSC)</td>
+    <td align="center">Science</td>
+    <td align="center">Mymensingh Zilla School</td>
+    <td align="center">Mymensingh, Bangladesh</td>
+  </tr>
+</table>
+
 <!-- Honors and Awards -->
 <h2 align="center">🏆 Honors and Awards</h2>
 
