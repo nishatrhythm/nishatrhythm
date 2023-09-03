@@ -102,6 +102,32 @@
 <!-- Footer -->
 <p align="center">🌟 Explore my projects, connect with me on social media, and visit my portfolio website <a href="https://nishatrhythm.github.io" target="_blank">nishatrhythm.github.io</a> to learn more!</p>
 
+<!-- Experiences -->
+<h2 align="center">🌟 Experiences</h2>
+
+<!-- Experience Table -->
+<table align="center">
+  <tr>
+    <th align="center">Year</th>
+    <th align="center">Position</th>
+    <th align="center">Company</th>
+    <th align="center">Location</th>
+  </tr>
+  <tr>
+    <td align="center">2021 - Present</td>
+    <td align="center">Front-end Developer</td>
+    <td align="center">Go Bangladesh</td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2018 - Present</td>
+    <td align="center">Founder and Content Creator</td>
+    <td align="center">Wikitricks</td>
+    <td align="center">Bangladesh</td>
+  </tr>
+  <!-- Add more rows for your experiences -->
+</table>
+
 <!-- Education -->
 <h2 align="center">📚 Education</h2>
 
