@@ -86,6 +86,83 @@
   </div>
 </div>
 
+<!-- Honors and Awards -->
+<h2 align="center">🏆 Honors and Awards</h2>
+
+<!-- Awards Table -->
+<table align="center">
+  <tr>
+    <th align="center">Year</th>
+    <th align="center">Award</th>
+    <th align="center">Segment</th>
+    <th align="center">Issuer</th>
+    <th align="center">Description</th>
+  </tr>
+  <tr>
+    <td align="center">7 February 2023</td>
+    <td align="center">CHAMPION</td>
+    <td align="center">Project Showcase, Senior</td>
+    <td align="center">Mawlana Bhashani Science & Technology University</td>
+    <td align="center">MBSTU Robo Tech Olympiad, Tangail</td>
+  </tr>
+  <tr>
+    <td align="center">7 February 2023</td>
+    <td align="center">CHAMPION</td>
+    <td align="center">Idea Presentation</td>
+    <td align="center">Mawlana Bhashani Science & Technology University</td>
+    <td align="center">MBSTU Robo Tech Olympiad, Tangail</td>
+  </tr>
+  <tr>
+    <td align="center">15 November 2022</td>
+    <td align="center">1ST RUNNER-UP</td>
+    <td align="center">Apps Showcasing</td>
+    <td align="center">Jagannath University IT Society</td>
+    <td align="center">An Apps Showcasing Competition</td>
+  </tr>
+  <tr>
+    <td align="center">6 August 2022</td>
+    <td align="center">1ST RUNNER-UP</td>
+    <td align="center">Project Showcase, Senior</td>
+    <td align="center">National Computer Training and Research Academy</td>
+    <td align="center">NACTAR Robotics Olympiad, Bogura</td>
+  </tr>
+  <tr>
+    <td align="center">6 June 2022</td>
+    <td align="center">1ST RUNNER-UP</td>
+    <td align="center">Project Showcase, Software</td>
+    <td align="center">Rajshahi University of Engineering & Technology</td>
+    <td align="center">RUET CSE FEST-2K22</td>
+  </tr>
+  <tr>
+    <td align="center">26 March 2022</td>
+    <td align="center">1ST RUNNER-UP</td>
+    <td align="center">Idea Presentation</td>
+    <td align="center">Hult Prize</td>
+    <td align="center">The Hult Prize 2022 Challenge</td>
+  </tr>
+  <tr>
+    <td align="center">6 February 2022</td>
+    <td align="center">10 LAC BDT FUND</td>
+    <td align="center">Startup Project</td>
+    <td align="center">Innovation Design and Entrepreneurship Academy (iDEA)</td>
+    <td align="center">As a startup project, "Go Bangladesh" got a 10 lac BDT fund from the Innovation Design and Entrepreneurship Academy (iDEA) project of the ICT Division.</td>
+  </tr>
+  <tr>
+    <td align="center">30 December 2021</td>
+    <td align="center">TOP 30</td>
+    <td align="center">Idea Presentation</td>
+    <td align="center">Mujib 100 Idea Contest</td>
+    <td align="center">On the 100th Birth Anniversary of the Father of the Nation of Bangladesh, Bangabandhu Sheikh Mujibur Rahman and the 50th anniversary of independence of the country, the University Grant Commission (UGC) organized it.</td>
+  </tr>
+  <tr>
+    <td align="center">11 August 2017</td>
+    <td align="center">2ND RUNNER-UP</td>
+    <td align="center">Quiz Program</td>
+    <td align="center">Bangladesh Agricultural University Science Club</td>
+    <td align="center">Science Workshop and Quiz Program on the occasion of 50 years birthday celebration of Marie Curie.</td>
+  </tr>
+</table>
+
 <!-- GitHub Repositories -->
 <h2 align="center">GitHub Repositories</h2>
 <p align="center">
