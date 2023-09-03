@@ -251,7 +251,7 @@
 
 <!-- Link to LinkedIn Certifications -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/nishatrhythm/certifications/" target="_blank">
+  <a href="https://www.linkedin.com/in/nishatrhythm/details/certifications" target="_blank">
     <img src="https://img.shields.io/badge/View My Certifications on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications">
   </a>
 </p>
