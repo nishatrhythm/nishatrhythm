@@ -120,6 +120,12 @@
     <td align="center">Dhaka, Bangladesh</td>
   </tr>
   <tr>
+    <td align="center">2022 - Present</td>
+    <td align="center">Front-end Developer</td>
+    <td align="center">Team Prefetch</td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
     <td align="center">2018 - Present</td>
     <td align="center">Founder and Content Creator</td>
     <td align="center">Wikitricks</td>
