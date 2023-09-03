@@ -1,119 +1,102 @@
-<h1 align="center">Hi 👋, I'm NISHAT MAHMUD!</h1>
-    <h3 align="center">A tech enthusiast and a passionate front-end developer from Bangladesh.</h3>
+<!-- Header Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishatrhythm/nishatrhythm/main/assets/banner.png" alt="Nishat Mahmud - Front-end Developer" width="100%">
+</p>
 
-  <p align="left"> <img
-            src="https://komarev.com/ghpvc/?username=nishatrhythm&label=Profile%20views&color=0e75b6&style=flat"
-            alt="nishatrhythm" /> </p>
+<!-- Introduction -->
+<h2 align="center">👋 Hello, I'm Nishat Mahmud</h2>
+<p align="center">A tech enthusiast and a passionate Android and front-end developer from Bangladesh.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=nishatrhythm" alt="nishatrhythm" /></a> </p>
+<!-- Contact and Social Media Links -->
+<p align="center">
+  <a href="mailto:nishatrhythm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop%20Me%20a%20Message-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://nishatrhythm.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-brightgreen?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://twitter.com/NishatRhythm" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+  <a href="https://www.facebook.com/NishatRhythm" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/NishatRhythm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/NishatRhythm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.behance.net/NishatRhythm" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-yellow?style=for-the-badge&logo=behance" alt="Behance">
+  </a>
+  <a href="https://codeforces.com/profile/NishatRhythm" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Coding-orange?style=for-the-badge&logo=codeforces" alt="Codeforces">
+  </a>
+  <a href="https://www.youtube.com/c/Wikitricks" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+</p>
 
-   <p align="left"> <a href="https://twitter.com/nishatrhythm" target="blank"><img
-                src="https://img.shields.io/twitter/follow/nishatrhythm?logo=twitter&style=for-the-badge"
-                alt="nishatrhythm" /></a> </p>
+<!-- Skills Section -->
+<h2 align="center">Skills & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Development-green?style=for-the-badge&logo=android" alt="Android">
+  <img src="https://img.shields.io/badge/Bootstrap-Framework-blue?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c" alt="C">
+  <img src="https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=c%2B%2B" alt="C++">
+  <img src="https://img.shields.io/badge/Java-Programming-blue?style=for-the-badge&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/HTML-Frontend-red?style=for-the-badge&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-Frontend-blue?style=for-the-badge&logo=css3" alt="CSS">
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge&logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/Materialize%20CSS-Framework-blue?style=for-the-badge" alt="Materialize CSS">
+  <img src="https://img.shields.io/badge/Figma-Design-red?style=for-the-badge&logo=figma" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe%20XD-Design-red?style=for-the-badge&logo=adobe%20xd" alt="Adobe XD">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-Design-red?style=for-the-badge&logo=adobe%20photoshop" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-Design-red?style=for-the-badge&logo=adobe%20illustrator" alt="Adobe Illustrator">
+</p>
 
-   - 🔭 I’m currently working on [Android development.](https://github.com/nishatrhythm?tab=repositories)
+<!-- Statistical Overview -->
+<h2 align="center">Statistical Overview</h2>
+<!-- GitHub Profile Trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nishatrhythm&theme=radical" alt="GitHub Profile Trophy">
+  </a>
+</div>
 
-   - 🌱 I’m currently learning **Kotlin.**
+<!-- GitHub Stats, Top Languages, and Contribution Streak -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nishatrhythm&show_icons=true&theme=radical" alt="GitHub Stats">
+  </div>
 
-   - 👨‍💻 All of my projects are available at
-    [github.com/nishatrhythm](https://github.com/nishatrhythm?tab=repositories)
+  <!-- Top Languages -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishatrhythm&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
+  </div>
 
-   - 💬 Ask me about **Kotlin, Jetpack Compose and Android development.**
+  <!-- Contribution Streak -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatrhythm&theme=radical" alt="Contribution Streak">
+  </div>
+</div>
 
-   - 📫 How to reach me **nishatrhythm@gmail.com**
+<!-- GitHub Repositories -->
+<h2 align="center">GitHub Repositories</h2>
+<p align="center">
+  <a href="https://github.com/nishatrhythm?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-black?style=for-the-badge&logo=github" alt="GitHub Repositories">
+  </a>
+</p>
 
-   - 📄 Know about my experiences [nishatrhythm.github.io](https://nishatrhythm.github.io)
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishatrhythm&color=blueviolet" alt="Visitor Counter">
+</p>
 
-   <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://facebook.com/nishatrhythm" target="blank"><img align="center"
-                src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
-                alt="nishatrhythm" height="40" width="40" /></a>
-        <a href="https://instagram.com/nishatrhythm" target="blank"><img align="center"
-                src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
-                alt="nishatrhythm" height="40" width="40" /></a>
-        <a href="https://x.com/nishatrhythm" target="blank"><img align="center"
-                src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"
-                alt="nishatrhythm" height="40" width="40" /></a>
-        <a href="https://linkedin.com/in/nishatrhythm" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="nishatrhythm" height="40" width="40" /></a>
-        <a href="https://www.youtube.com/c/wikitricks" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-                alt="wikitricks" height="40" width="40" /></a>
-        <a href="https://www.behance.net/nishatrhythm" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-                alt="nishatrhythm" height="40" width="40" /></a>
-        <a href="https://codepen.io/nishatmahmud" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-                alt="nishatmahmud" height="40" width="40" /></a>
-        <a href="https://codeforces.com/profile/nishatrhythm" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-                alt="nishatrhythm" height="40" width="40" /></a>
-    </p>
-
-   <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-        <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                alt="android" width="40" height="40" /> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" /> </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="40" height="40" /> </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-                height="40" /> </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-                width="40" height="40" /> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" /> </a>
-        <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-                alt="materialize" width="40" height="40" /> </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-                width="40" height="40" /> </a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
-                src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40"
-                height="40" /> </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-                src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop"
-                width="40" height="40" /> </a>
-        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-                src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="xd" width="40"
-                height="40" /> </a>
-    </p>
-
-   <p><img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=nishatrhythm&show_icons=true&locale=en&layout=compact"
-            alt="nishatrhythm" /></p>
-
-   <p>&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=nishatrhythm&show_icons=true&locale=en"
-            alt="nishatrhythm" /></p>
-
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishatrhythm&"
-            alt="nishatrhythm" /></p>
+<!-- Footer -->
+<p align="center">🌟 Explore my projects, connect with me on social media, and visit my portfolio website <a href="https://nishatrhythm.github.io" target="_blank">nishatrhythm.github.io</a> to learn more!</p>
