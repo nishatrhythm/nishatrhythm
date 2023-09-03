@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishatrhythm/nishatrhythm/main/assets/banner.png" alt="Nishat Mahmud - Front-end Developer" width="100%">
+  <img src="banner.png" alt="Nishat Mahmud - Front-end Developer" width="100%">
 </p>
 
 <!-- Introduction -->
