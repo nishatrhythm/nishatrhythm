@@ -86,6 +86,22 @@
   </div>
 </div>
 
+<!-- GitHub Repositories -->
+<h2 align="center">GitHub Repositories</h2>
+<p align="center">
+  <a href="https://github.com/nishatrhythm?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-black?style=for-the-badge&logo=github" alt="GitHub Repositories">
+  </a>
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishatrhythm&color=blueviolet" alt="Visitor Counter">
+</p>
+
+<!-- Footer -->
+<p align="center">🌟 Explore my projects, connect with me on social media, and visit my portfolio website <a href="https://nishatrhythm.github.io" target="_blank">nishatrhythm.github.io</a> to learn more!</p>
+
 <!-- Education -->
 <h2 align="center">📚 Education</h2>
 
@@ -197,19 +213,3 @@
     <td align="center">Science Workshop and Quiz Program on the occasion of 50 years birthday celebration of Marie Curie.</td>
   </tr>
 </table>
-
-<!-- GitHub Repositories -->
-<h2 align="center">GitHub Repositories</h2>
-<p align="center">
-  <a href="https://github.com/nishatrhythm?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20Out%20My%20Projects-black?style=for-the-badge&logo=github" alt="GitHub Repositories">
-  </a>
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishatrhythm&color=blueviolet" alt="Visitor Counter">
-</p>
-
-<!-- Footer -->
-<p align="center">🌟 Explore my projects, connect with me on social media, and visit my portfolio website <a href="https://nishatrhythm.github.io" target="_blank">nishatrhythm.github.io</a> to learn more!</p>
