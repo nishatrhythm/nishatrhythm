@@ -245,3 +245,13 @@
     <td align="center">Science Workshop and Quiz Program on the occasion of 50 years birthday celebration of Marie Curie.</td>
   </tr>
 </table>
+
+<!-- Certifications -->
+<h2 align="center">📜 Certifications</h2>
+
+<!-- Link to LinkedIn Certifications -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishatrhythm/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/View My Certifications on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications">
+  </a>
+</p>
