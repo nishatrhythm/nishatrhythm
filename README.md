@@ -255,3 +255,10 @@
     <img src="https://img.shields.io/badge/View My Certifications on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications">
   </a>
 </p>
+
+<!-- Button to Google Drive Certificates -->
+<p align="center">
+  <a href="https://drive.google.com/drive/u/2/folders/1FwU4_Jaezgl-CoDj9lV98_ld_Loxr9NB" target="_blank">
+    <img src="https://img.shields.io/badge/View My Certificates on Google Drive-blue?style=for-the-badge&logo=googledrive" alt="Google Drive Certificates">
+  </a>
+</p>
