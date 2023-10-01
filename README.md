@@ -114,15 +114,15 @@
     <th align="center">Location</th>
   </tr>
   <tr>
-    <td align="center">2021 - Present</td>
-    <td align="center">Front-end Developer</td>
-    <td align="center">Go Bangladesh</td>
-    <td align="center">Dhaka, Bangladesh</td>
-  </tr>
-  <tr>
     <td align="center">2022 - Present</td>
     <td align="center">Front-end Developer</td>
     <td align="center">Team Prefetch</td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2021 - Present</td>
+    <td align="center">Front-end Developer</td>
+    <td align="center"><a href="https://www.go-bangladesh.com" target="_blank">Go Bangladesh</a></td>
     <td align="center">Dhaka, Bangladesh</td>
   </tr>
   <tr>
