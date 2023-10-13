@@ -110,10 +110,10 @@
 <!-- Experience Table -->
 <table align="center">
   <tr>
-    <th align="center">Year</th>
-    <th align="center">Position</th>
-    <th align="center">Company</th>
-    <th align="center">Location</th>
+    <th align="center">YEAR</th>
+    <th align="center">POSITION</th>
+    <th align="center">COMPANY</th>
+    <th align="center">LOCATION</th>
   </tr>
   <tr>
     <td align="center">2022 - Present</td>
@@ -142,11 +142,11 @@
 <!-- Education Table -->
 <table align="center">
   <tr>
-    <th align="center">Year</th>
-    <th align="center">Degree</th>
-    <th align="center">Department / Group</th>
-    <th align="center">Institution</th>
-    <th align="center">Location</th>
+    <th align="center">YEAR</th>
+    <th align="center">DEGREE</th>
+    <th align="center">DEPARTMENT / GROUP</th>
+    <th align="center">INSTITUTION</th>
+    <th align="center">LOCATION</th>
   </tr>
   <tr>
     <td align="center">2020 - Present</td>
@@ -177,11 +177,11 @@
 <!-- Awards Table -->
 <table align="center">
   <tr>
-    <th align="center">Year</th>
-    <th align="center">Award</th>
-    <th align="center">Segment</th>
-    <th align="center">Issuer</th>
-    <th align="center">Description</th>
+    <th align="center">YEAR</th>
+    <th align="center">AWARD</th>
+    <th align="center">SEGMENT</th>
+    <th align="center">ISSUER</th>
+    <th align="center">DESCRIPTION</th>
   </tr>
   <tr>
     <td align="center">7 February 2023</td>
