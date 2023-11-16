@@ -110,7 +110,7 @@
 <!-- Experience Table -->
 <table align="center">
   <tr>
-    <th align="center">YEAR</th>
+    <th align="center">TIMELINE</th>
     <th align="center">POSITION</th>
     <th align="center">COMPANY</th>
     <th align="center">LOCATION</th>
@@ -118,7 +118,7 @@
   <tr>
     <td align="center">2022 - Present</td>
     <td align="center">Front-end Developer</td>
-    <td align="center">Team Prefetch</td>
+    <td align="center"><a href="https://github.com/teamprefetch" target="_blank">Team Prefetch</a></td>
     <td align="center">Dhaka, Bangladesh</td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@
   <tr>
     <td align="center">2018 - Present</td>
     <td align="center">Founder and Content Creator</td>
-    <td align="center">Wikitricks</td>
+    <td align="center"><a href="https://www.youtube.com/wikitricks" target="_blank">Wikitricks</a></td>
     <td align="center">Bangladesh</td>
   </tr>
   <!-- Add more rows for your experiences -->
@@ -142,7 +142,7 @@
 <!-- Education Table -->
 <table align="center">
   <tr>
-    <th align="center">YEAR</th>
+    <th align="center">TIMELINE</th>
     <th align="center">DEGREE</th>
     <th align="center">DEPARTMENT / GROUP</th>
     <th align="center">INSTITUTION</th>
@@ -177,11 +177,18 @@
 <!-- Awards Table -->
 <table align="center">
   <tr>
-    <th align="center">YEAR</th>
+    <th align="center">TIMELINE</th>
     <th align="center">AWARD</th>
     <th align="center">SEGMENT</th>
     <th align="center">ISSUER</th>
     <th align="center">DESCRIPTION</th>
+  </tr>
+  <tr>
+    <td align="center">15 November 2023</td>
+    <td align="center">1ST RUNNER-UP</td>
+    <td align="center">Robot and Project Exhibition</td>
+    <td align="center">Bangamata Sheikh Fojilatunnesa Mujib Science & Technology University</td>
+    <td align="center">National Conference on Robotics & IoT, BSFMSTU, Melandaha, Jamalpur</td>
   </tr>
   <tr>
     <td align="center">7 February 2023</td>
@@ -222,7 +229,7 @@
     <td align="center">26 March 2022</td>
     <td align="center">1ST RUNNER-UP</td>
     <td align="center">Idea Presentation</td>
-    <td align="center">Hult Prize</td>
+    <td align="center">Hult Prize at Jagannath University, Dhaka</td>
     <td align="center">The Hult Prize 2022 Challenge</td>
   </tr>
   <tr>
