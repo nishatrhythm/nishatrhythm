@@ -42,23 +42,75 @@
 
 <!-- Skills Section -->
 <h2 align="center">💼 Skills & Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-Development-green?style=for-the-badge&logo=android" alt="Android">
-  <img src="https://img.shields.io/badge/Bootstrap-Framework-blue?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c" alt="C">
-  <img src="https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=c%2B%2B" alt="C++">
-  <img src="https://img.shields.io/badge/Java-Programming-blue?style=for-the-badge&logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/HTML-Frontend-red?style=for-the-badge&logo=html5" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-Frontend-blue?style=for-the-badge&logo=css3" alt="CSS">
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge&logo=php" alt="PHP">
-  <img src="https://img.shields.io/badge/Materialize%20CSS-Framework-blue?style=for-the-badge" alt="Materialize CSS">
-  <img src="https://img.shields.io/badge/Figma-Design-red?style=for-the-badge&logo=figma" alt="Figma">
-  <img src="https://img.shields.io/badge/Adobe%20XD-Design-red?style=for-the-badge&logo=adobe%20xd" alt="Adobe XD">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-Design-red?style=for-the-badge&logo=adobe%20photoshop" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-Design-red?style=for-the-badge&logo=adobe%20illustrator" alt="Adobe Illustrator">
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Android-Development-green?style=for-the-badge&logo=android" alt="Android">
+      <br>Android
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Bootstrap-Framework-blue?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c" alt="C">
+      <br>C Programming
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=c%2B%2B" alt="C++">
+      <br>C++ Programming
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-Programming-blue?style=for-the-badge&logo=java" alt="Java">
+      <br>Java Programming
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML-Frontend-red?style=for-the-badge&logo=html5" alt="HTML">
+      <br>HTML
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS-Frontend-blue?style=for-the-badge&logo=css3" alt="CSS">
+      <br>CSS
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" alt="MySQL">
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge&logo=php" alt="PHP">
+      <br>PHP
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Materialize%20CSS-Framework-blue?style=for-the-badge" alt="Materialize CSS">
+      <br>Materialize CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Figma-Design-red?style=for-the-badge&logo=figma" alt="Figma">
+      <br>Figma
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Adobe%20XD-Design-red?style=for-the-badge&logo=adobe%20xd" alt="Adobe XD">
+      <br>Adobe XD
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git" alt="Git">
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-Design-red?style=for-the-badge&logo=adobe%20photoshop" alt="Adobe Photoshop">
+      <br>Adobe Photoshop
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-Design-red?style=for-the-badge&logo=adobe%20illustrator" alt="Adobe Illustrator">
+      <br>Adobe Illustrator
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Profile Trophy -->
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
