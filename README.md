@@ -236,6 +236,13 @@
     <th align="center">DESCRIPTION</th>
   </tr>
   <tr>
+    <td align="center">18 February 2024</td>
+    <td align="center">CHAMPION</td>
+    <td align="center">Innovation Showcasing</td>
+    <td align="center">University Grants Commission of Bangladesh</td>
+    <td align="center">Workshop on Innovation Showcasing of the Public Universities as Part of Implementation of e-Governance and Innovation Work Plan 2023-2024</td>
+  </tr>
+  <tr>
     <td align="center">15 November 2023</td>
     <td align="center">1ST RUNNER-UP</td>
     <td align="center">Robot and Project Exhibition</td>
