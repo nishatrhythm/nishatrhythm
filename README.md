@@ -116,7 +116,7 @@
 <h2 align="center">🏆 GitHub Profile Trophy</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishatrhythm&theme=radical" alt="GitHub Profile Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Oso00Luffy&theme=radical" alt="GitHub Profile Trophy">
   </a>
 </p>
 
@@ -126,17 +126,17 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nishatrhythm&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Oso00Luffy&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
 
   <!-- Top Languages -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishatrhythm&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oso00Luffy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
   </div>
 
   <!-- Contribution Streak -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatrhythm&theme=radical" alt="Contribution Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oso00Luffy&theme=radical" alt="Contribution Streak">
   </div>
 </div>
 
@@ -150,7 +150,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishatrhythm&color=blueviolet" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=Oso00Luffy&color=blueviolet" alt="Visitor Counter">
 </p>
 
 <!-- Footer -->
