@@ -92,6 +92,45 @@
 
 ---
 
+<h2 align="center">📊 GitHub Insights</h2>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishatrhythm&color=blueviolet" alt="Visitor Counter">
+</p>
+
+<p align="center">
+  <a href="https://github.com/nishatrhythm">
+    <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishatrhythm&theme=radical" alt="GitHub Profile Summary">
+  </a>
+  <br>
+  <a href="https://github.com/nishatrhythm">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=nishatrhythm&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/nishatrhythm">
+    <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatrhythm&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+  <a href="https://github.com/nishatrhythm">
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=nishatrhythm&theme=radical" alt="Contribution Streak">
+  </a>
+  <a href="https://github.com/nishatrhythm">
+    <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatrhythm&theme=radical" alt="GitHub Contribution Graph">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/nishatrhythm/nishatrhythm/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
+
+<!-- Footer -->
+<p align="center">
+  🚀 <strong>Let's build something amazing together!</strong><br>
+  📩 Reach out via <a href="mailto:nishatrhythm@gmail.com">Email</a> or <a href="https://linkedin.com/in/NishatRhythm">LinkedIn</a><br>
+  🌍 Explore my <a href="https://nishat.vercel.app">Portfolio</a> | 🎯 Check out <a href="https://github.com/nishatrhythm?tab=repositories">My GitHub Projects</a>
+</p>
+
+---
+
 <h2 align="center">🚀 Featured & Categorized Repositories</h2>
 
 <table align="center">
@@ -430,45 +469,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Insights</h2>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishatrhythm&color=blueviolet" alt="Visitor Counter">
-</p>
-
-<p align="center">
-  <a href="https://github.com/nishatrhythm">
-    <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishatrhythm&theme=radical" alt="GitHub Profile Summary">
-  </a>
-  <br>
-  <a href="https://github.com/nishatrhythm">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=nishatrhythm&show_icons=true&theme=radical" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/nishatrhythm">
-    <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatrhythm&layout=compact&theme=radical" alt="Top Languages">
-  </a>
-  <a href="https://github.com/nishatrhythm">
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=nishatrhythm&theme=radical" alt="Contribution Streak">
-  </a>
-  <a href="https://github.com/nishatrhythm">
-    <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatrhythm&theme=radical" alt="GitHub Contribution Graph">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/nishatrhythm/nishatrhythm/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
-
-<!-- Footer -->
-<p align="center">
-  🚀 <strong>Let's build something amazing together!</strong><br>
-  📩 Reach out via <a href="mailto:nishatrhythm@gmail.com">Email</a> or <a href="https://linkedin.com/in/NishatRhythm">LinkedIn</a><br>
-  🌍 Explore my <a href="https://nishat.vercel.app">Portfolio</a> | 🎯 Check out <a href="https://github.com/nishatrhythm?tab=repositories">My GitHub Projects</a>
-</p>
-
----
-
 <!-- Experiences -->
 <h2 align="center">🌟 Experiences</h2>
 
@@ -551,6 +551,7 @@
     <th align="center">SEGMENT</th>
     <th align="center">ISSUER</th>
     <th align="center">DESCRIPTION</th>
+    <th align="center">CERTIFICATES</th>
   </tr>
   <tr>
     <td align="center">18 February 2024</td>
@@ -558,6 +559,7 @@
     <td align="center">Innovation Showcasing</td>
     <td align="center"><a href="https://ugc.gov.bd">University Grants Commission of Bangladesh</a></td>
     <td align="center">Workshop on Innovation Showcasing of the Public Universities as Part of Implementation of e-Governance and Innovation Work Plan 2023-2024</td>
+    <td align="center"><a href="https://drive.google.com/file/d/18Ar4x6eitG7JidrW2MNw_OH_35Z7BCiA">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">15 November 2023</td>
@@ -565,6 +567,7 @@
     <td align="center">Robot and Project Exhibition</td>
     <td align="center"><a href="https://bsfmstu.ac.bd">Jamalpur Science & Technology University</a></td>
     <td align="center">National Conference on Robotics & IoT, JSTU, Melandaha, Jamalpur</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1ArqZaSBIP6tI-HUJtP8iyZ_AucCh7DfD">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">7 February 2023</td>
@@ -572,6 +575,7 @@
     <td align="center">Project Showcase, Senior</td>
     <td align="center"><a href="https://mbstu.ac.bd">Mawlana Bhashani Science & Technology University</a></td>
     <td align="center">MBSTU Robo Tech Olympiad, Tangail</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1WTQDTPLQE4jYFvX021I9mTm31AFVUZYR">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">7 February 2023</td>
@@ -579,6 +583,7 @@
     <td align="center">Idea Presentation</td>
     <td align="center"><a href="https://mbstu.ac.bd">Mawlana Bhashani Science & Technology University</a></td>
     <td align="center">MBSTU Robo Tech Olympiad, Tangail</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1UhPNu_sKUZQ2P4d2eIrTj92kGV--Hvc3">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">15 November 2022</td>
@@ -586,6 +591,7 @@
     <td align="center">Apps Showcasing</td>
     <td align="center"><a href="https://jnuits.org.bd">Jagannath University IT Society</a></td>
     <td align="center">An Apps Showcasing Competition</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1k0ax9FP5Nw4Z2ui5WaUJnYYzsDuBqiPw">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">6 August 2022</td>
@@ -593,6 +599,7 @@
     <td align="center">Project Showcase, Senior</td>
     <td align="center"><a href="https://nactar.gov.bd">National Computer Training and Research Academy</a></td>
     <td align="center">NACTAR Robotics Olympiad, Bogura</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1Ypeza-QvUfs-EzkeGxVIDJ0x7OsgIiHF">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">6 June 2022</td>
@@ -600,6 +607,7 @@
     <td align="center">Project Showcase, Software</td>
     <td align="center"><a href="https://www.ruet.ac.bd">Rajshahi University of Engineering & Technology</a></td>
     <td align="center">RUET CSE FEST-2K22</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1N8seZOtadX_rik2D7c_x--MjtNMmCRQp">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">6 June 2022</td>
@@ -607,6 +615,7 @@
     <td align="center">Idea/Poster Presentation</td>
     <td align="center"><a href="https://www.ruet.ac.bd">Rajshahi University of Engineering & Technology</a></td>
     <td align="center">RUET CSE FEST-2K22</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1GApRwryViwlz7JY3q1M0ftZX8Ty8KX0S">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">26 March 2022</td>
@@ -614,6 +623,7 @@
     <td align="center">Idea Presentation</td>
     <td align="center">Hult Prize at <a href="https://jnu.ac.bd">Jagannath University, Dhaka</a></td>
     <td align="center">The Hult Prize 2022 Challenge</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1PsRuHgcToXTLcfTk4pkxqbYZGyvFs77z">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">6 February 2022</td>
@@ -621,6 +631,7 @@
     <td align="center">Startup Project</td>
     <td align="center"><a href="https://idea.gov.bd">Innovation Design and Entrepreneurship Academy (iDEA)</a></td>
     <td align="center">As a startup project, "Go Bangladesh" got a 10 lac BDT fund from the Innovation Design and Entrepreneurship Academy (iDEA) project of the ICT Division.</td>
+    <td align="center">—</td>
   </tr>
   <tr>
     <td align="center">30 December 2021</td>
@@ -628,6 +639,7 @@
     <td align="center">Idea Presentation</td>
     <td align="center"><a href="https://www.ic4irb.com/mujib100ideas">Mujib 100 Idea Contest</a></td>
     <td align="center">On the 100th Birth Anniversary of the Father of the Nation of Bangladesh, Bangabandhu Sheikh Mujibur Rahman and the 50th anniversary of independence of the country, the University Grant Commission (UGC) organized it.</td>
+    <td align="center">—</td>
   </tr>
   <tr>
     <td align="center">11 August 2017</td>
@@ -635,6 +647,7 @@
     <td align="center">Quiz Program</td>
     <td align="center"><a href="https://www.bau.edu.bd">Bangladesh Agricultural University</a> Science Club</td>
     <td align="center">Science Workshop and Quiz Program on the occasion of 50 years birthday celebration of Marie Curie.</td>
+    <td align="center"><a href="https://drive.google.com/file/d/1uVKzt7B4N0Hq1dOulHvl9uhbKm6f566L">View Certificate</a></td>
   </tr>
 </table>
 
