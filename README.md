@@ -92,6 +92,263 @@
 
 ---
 
+<h2 align="center">🚀 Featured & Categorized Repositories</h2>
+
+<table align="center">
+  <tr>
+    <th colspan="3" align="center"><h3>🛠️ Personal Projects</h3></th>
+  </tr>
+    <tr>
+    <th>Repository</th>
+    <th>Description</th>
+    <th>⭐ Stars</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/CareerLink-and-TutorConnect"><b>CareerLink and TutorConnect (Abstract Only)</b></a></td>
+    <td>An AI-powered job recruitment and professional networking platform with smart matching, career development, and secure verification. Additionally, a one-to-one topic-specific learning platform connecting students with expert tutors for personalized education.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/CareerLink-and-TutorConnect/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/CareerLink-and-TutorConnect?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-API-Based-Ticket-Booking-Automation"><b>Bangladesh Railway API Based Ticket Booking Automation (Private)</b></a></td>
+    <td>An automated script for booking Bangladesh Railway tickets, featuring authentication, seat reservation, OTP verification, and payment processing.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-API-Based-Ticket-Booking-Automation/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-API-Based-Ticket-Booking-Automation?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Ticket-Booking-Automation-Script"><b>Bangladesh Railway Ticket Booking Automation Script (Private)</b></a></td>
+    <td>Automated script for booking railway tickets on the [Bangladesh Railway website, Powered by Shohoz-Synesis-Vincen JV] using Selenium WebDriver and Python. This script automates the login process, searches for trains based on specified criteria, selects desired seats, handles server errors gracefully, and completes the booking process automatically.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Ticket-Booking-Automation-Script/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Ticket-Booking-Automation-Script?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Trains-Stations-Coaches-Classes-Info"><b>Bangladesh Railway Trains Stations Coaches Classes Info</b></a></td>
+    <td>Comprehensive dataset of trains, coaches, classes and railway stations in Bangladesh, provided in both English and Bengali JSON formats for easy integration into applications and projects.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Trains-Stations-Coaches-Classes-Info/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Trains-Stations-Coaches-Classes-Info?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map"><b>Bangladesh Railway Train and Fare List with Route Map</b></a></td>
+    <td>A web app that provides train schedules, seat fares, and interactive route maps for Bangladesh Railway, enabling users to plan their journeys efficiently. Available online at <a href="https://bdrailway.vercel.app">bdrailway.vercel.app</a></td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Segmented-Seat-Matrix-and-Details-Seat-Availabilty"><b>Bangladesh Railway Segmented Seat Matrix and Details Seat Availabilty</b></a></td>
+    <td>Python tool for analyzing Bangladesh Railway seat matrices for segmented routes. Check seat availability, find optimized segmented paths, and display detailed fare breakdowns with VAT. Interactive terminal-based interface.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Segmented-Seat-Matrix-and-Details-Seat-Availabilty/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Segmented-Seat-Matrix-and-Details-Seat-Availabilty?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Seat-Availability-Web-Application"><b>Bangladesh Railway Seat Availability Web Application</b></a></td>
+    <td>A web application for checking Bangladesh Railway seat availability with secure token-based authentication, interactive UI, and real-time data fetching. Available online at <a href="https://trainseat.onrender.com">trainseat.onrender.com</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Seat-Availability-Web-Application/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Seat-Availability-Web-Application?style=social">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3" align="center"><h3>🌍 Open Source Contributions</h3></th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SpotX-Official/SpotX/commits?author=nishatrhythm"><b>SpotX</b></a></td>
+    <td>SpotX patcher used for patching the desktop version of Spotify.</td>
+    <td align="center">
+      <a href="https://github.com/SpotX-Official/SpotX/stargazers">
+        <img src="https://img.shields.io/github/stars/SpotX-Official/SpotX?style=social">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="3" align="center"><h3>🎓 Academic Tasks</h3></th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Machine-Learning"><b>Machine Learning</b></a></td>
+    <td>A dynamic repository showcasing practical Machine Learning projects, featuring cutting-edge techniques, model training, and hyperparameter optimization for impactful insights.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Machine-Learning/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Machine-Learning?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Data-Science-Lab"><b>Data Science</b></a></td>
+    <td>A collection of data analysis, visualization, and machine learning projects using Python, Pandas, NumPy, Matplotlib, and Scikit-learn. Includes real-world datasets and hands-on experiments for data-driven insights.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Data-Science-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Data-Science-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Cryptography-and-Information-Security-Lab"><b>Cryptography and Information Security</b></a></td>
+    <td>This repository covers a variety of classical and modern encryption algorithms, as well as cryptographic techniques for secure data transmission.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Data-Science-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Data-Science-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Artificial-Intelligence-Lab"><b>Artificial Intelligence</b></a></td>
+    <td>This repository features basic neural network implementations in Jupyter Notebook, including examples like logical gates and simple prediction models, along with Prolog code for AI logic programming.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Artificial-Intelligence-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Artificial-Intelligence-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Computer-Graphics-and-Animation"><b>Computer Graphics and Animation</b></a></td>
+    <td>This repository contains code and resources related to computer graphics and animation labs, including setup guides and various implementations in C++ and Python. Perfect for students and enthusiasts exploring the fundamentals of graphics programming.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Computer-Graphics-and-Animation/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Computer-Graphics-and-Animation?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Digital-Signal-Processing-Lab"><b>Digital Signal Processing</b></a></td>
+    <td>This GitHub repo has practical exercises and code for learning and working on Digital Signal Processing - making it easy for beginners.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Digital-Signal-Processing-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Digital-Signal-Processing-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Compiler-Design-and-Construction-Lab"><b>Compiler Design and Construction</b></a></td>
+    <td>This repo has code solutions for compiler tasks like reading words, counting lines, and understanding grammar using Lex and C/C++.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Compiler-Design-and-Construction-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Compiler-Design-and-Construction-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Operating-Systems"><b>Operating Systems</b></a></td>
+    <td>UNIX or Ubuntu Operating Systems related shell scripting and basic commands can be found here.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Operating-Systems/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Operating-Systems?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Microprocessor-Basics"><b>Microprocessor Basics</b></a></td>
+    <td>Here is the microprocessor basics assembly codes for the lab course.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Microprocessor-Basics/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Microprocessor-Basics?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Computer-Architecture-MIPS-Code"><b>Computer Architecture</b></a></td>
+    <td>MIPS code of Computer Architecture Course.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Computer-Architecture-MIPS-Code/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Computer-Architecture-MIPS-Code?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Basic-Database"><b>Basic Database</b></a></td>
+    <td>MySQL database related basic commands can be found in this repository.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Basic-Database/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Basic-Database?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Numerical-Analysis-Lab"><b>Numerical Analysis</b></a></td>
+    <td>Implementation of Numerical Analysis formulae using Python.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Numerical-Analysis-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Numerical-Analysis-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Algorithm-Lab"><b>Basic Algorithm</b></a></td>
+    <td>Basic algorithm related programs can be found in this repository.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Algorithm-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Algorithm-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Digital-Logic-Design-Lab"><b>Digital Logic Design</b></a></td>
+    <td>Digital Logic Design (.circ) related files can be found here. You must run those files in Logisim software.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Digital-Logic-Design-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Digital-Logic-Design-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Object-Oriented-Programing-JAVA"><b>Object Oriented Programing (Java)</b></a></td>
+    <td>Object Oriented Programming - Java related basic programs can be found in this repository.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Object-Oriented-Programing-JAVA/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Object-Oriented-Programing-JAVA?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Object-Oriented-Programming-C-Plus-Plus"><b>Object Oriented Programming (C++)</b></a></td>
+    <td>Object Oriented Programming - C++ related basic programs can be found in this repository.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Object-Oriented-Programming-C-Plus-Plus/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Object-Oriented-Programming-C-Plus-Plus?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Data-Structure-Lab"><b>Data Structure</b></a></td>
+    <td>Data Structure related codes can be found here.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Data-Structure-Lab/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Data-Structure-Lab?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Simple-C-and-C-Plus-PLus-Program"><b>Simple C and C++ Program</b></a></td>
+    <td>Basic C and C++ related programs can be found in this repository.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Simple-C-and-C-Plus-PLus-Program/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Simple-C-and-C-Plus-PLus-Program?style=social">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">📊 GitHub Insights</h2>
 
 <!-- Visitor Counter -->
