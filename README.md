@@ -671,6 +671,12 @@
     <td align="center"><a href="https://drive.google.com/file/d/1HLRB7ZJLw8wrW_L0fQgT19Hy9kWWW_cK">View Certificate</a></td>
   </tr>
   <tr>
+    <td align="center">November 2024</td>
+    <td align="center">Build Your Own Cloud Platform - Mastering Orchestration with Kubernetes</td>
+    <td align="center"><a href="https://ieeecsbdc.org/chapter/cs-jnu">IEEE CS Jagannath University SBC</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1bEeI4frspEUf5mqB6A2_E40PotH_4d6G">View Certificate</a></td>
+  </tr>
+  <tr>
     <td align="center">October 2024</td>
     <td align="center">ICPC Asia Dhaka Regional Site Online Preliminary Contest 2024-25</td>
     <td align="center"><a href="https://icpc.global">International Collegiate Programming Contest</a></td>
@@ -683,16 +689,46 @@
     <td align="center"><a href="https://drive.google.com/file/d/1_gLxxz3acz8fYb-9VF_BQdlU4encFYth">View Certificate</a></td>
   </tr>
   <tr>
+    <td align="center">March 2024</td>
+    <td align="center">JnU Intra University Programming Contest 2024</td>
+    <td align="center"><a href="https://jnu.ac.bd/department/portal/cse">Jagannath University, Dhaka</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1UybE1XzAhzsJ6QlaEvW69LCLdNlrm5rH">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">February 2024</td>
+    <td align="center">Wadhwani Foundation (21st Century Employability Skilling Program - Advanced)</td>
+    <td align="center"><a href="https://wadhwanifoundation.org">Wadhwani Foundation</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1nkdnW9EBnxjHDRT0pOeZItXtjaqiwFk8">View Certificate</a></td>
+  </tr>
+  <tr>
     <td align="center">November 2023</td>
     <td align="center">CEFALO ITVerse 2023</td>
     <td align="center"><a href="http://www.iit.du.ac.bd">Institute of Information Technology (IIT), University of Dhaka</a></td>
     <td align="center"><a href="https://drive.google.com/file/d/1D0l35BnJmMLfHPIV6I6vGNW-mzrgzUJK">View Certificate</a></td>
   </tr>
   <tr>
+    <td align="center">October 2023</td>
+    <td align="center">ICPC Asia Dhaka Regional Site Online Preliminary Contest 2023-24</td>
+    <td align="center"><a href="https://icpc.global">International Collegiate Programming Contest</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1vsijHOyEUMSwcNQNNY5_tVmuEBx3p4aV">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">February 2023</td>
+    <td align="center">JnU Intra University Programming Contest 2023</td>
+    <td align="center"><a href="https://jnu.ac.bd/department/portal/cse">Jagannath University, Dhaka</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1a0LQH0btHuApcEVgIZ5ZJzHHxpVJ8poQ">View Certificate</a></td>
+  </tr>
+  <tr>
     <td align="center">September 2022</td>
     <td align="center">Training on Blockchain</td>
     <td align="center"><a href="https://www.creativeitinstitute.com">Creative IT Institute</a></td>
     <td align="center"><a href="https://drive.google.com/file/d/1--vXYA6Qk7LsEtjFwVIJAhefkGZ5zx8k">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">April 2021</td>
+    <td align="center">ICPC Asia Dhaka Regional Site Online Preliminary Contest 2020-21</td>
+    <td align="center"><a href="https://icpc.global">International Collegiate Programming Contest</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/18W8mDkBA2lqH6WcAVXcy01Pk3I-iRHRt">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">December 2017</td>
@@ -711,6 +747,30 @@
     <td align="center">Bangladesh Mathematical Olympiad 2016 (Regional Round)</td>
     <td align="center"><a href="https://matholympiad.org.bd">Bangladesh Mathematical Olympiad</a></td>
     <td align="center"><a href="https://drive.google.com/file/d/119_6rVlaLjIwXK4c1uB6zuicxZs7afhc">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">January 2014</td>
+    <td align="center">Bangladesh Mathematical Olympiad 2014 (Regional Round)</td>
+    <td align="center"><a href="https://matholympiad.org.bd">Bangladesh Mathematical Olympiad</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/10y95Yo2c8EfCfUlqq1HXmUug9zLZAQVO">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">January 2013</td>
+    <td align="center">Bangladesh Mathematical Olympiad 2013 (Regional Round)</td>
+    <td align="center"><a href="https://matholympiad.org.bd">Bangladesh Mathematical Olympiad</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/13yu8cSY9khVeavmsZgj2lzDHkK-bXheQ">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">February 2012</td>
+    <td align="center">Bangladesh Mathematical Olympiad 2012 (Regional Round)</td>
+    <td align="center"><a href="https://matholympiad.org.bd">Bangladesh Mathematical Olympiad</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1XqgHVwh43t5oCDscJhm14JHnO2ukV9au">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">January 2011</td>
+    <td align="center">Bangladesh Mathematical Olympiad 2011 (Regional Round)</td>
+    <td align="center"><a href="https://matholympiad.org.bd">Bangladesh Mathematical Olympiad</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1XemuHAmhZuPn-fSdXz4TMTc6f346LutE">View Certificate</a></td>
   </tr>
 </table>
 
