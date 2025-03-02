@@ -113,6 +113,87 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/nishatrhythm/Students-Introductory-Website-Template"><b>Students Introductory Website Template</b></a></td>
+    <td>Template for making the introductory website of a batch of a university department.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Students-Introductory-Website-Template/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Students-Introductory-Website-Template?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Traffic-Signs-Classification-Using-Convolutional-Neural-Networks"><b>Traffic Signs Classification Using Convolutional Neural Networks</b></a></td>
+    <td>This repository contains a deep learning project using Convolutional Neural Networks (CNNs) to classify traffic signs from images.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Traffic-Signs-Classification-Using-Convolutional-Neural-Networks/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Traffic-Signs-Classification-Using-Convolutional-Neural-Networks?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Quran-Files-Python-Scrapper"><b>Quran Files Python Scrapper</b></a></td>
+    <td>This is a personal Python based script to scrap files from a website. Educational purposes only.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Quran-Files-Python-Scrapper/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Quran-Files-Python-Scrapper?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/My-Portfolio"><b>My Portfolio</b></a></td>
+    <td>The source code of my portfolio website can be found here.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/My-Portfolio/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/My-Portfolio?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/e-Desk-Web"><b>e-Desk (Web)</b></a></td>
+    <td>e-Desk is a smart complaint management system.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/e-Desk-Web/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/e-Desk-Web?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/CoinBank-Wallet"><b>CoinBank Wallet</b></a></td>
+    <td>An Android application project for managing your daily income and expenses.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/CoinBank-Wallet/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/CoinBank-Wallet?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Quillium"><b>Quillium</b></a></td>
+    <td>This is a university based social media platform.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Quillium/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Quillium?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/Power-Distributors-of-Bangladesh"><b>Power Distributors of Bangladesh</b></a></td>
+    <td>This is an API of the power distribution companies in Bangladesh. It includes details of the BPDB, DESCO, DPDC, NESCO, WZPDCL, BREB.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Power-Distributors-of-Bangladesh/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Power-Distributors-of-Bangladesh?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishatrhythm/HTML-for-Beginners"><b>HTML-for-Beginners</b></a></td>
+    <td>Basic HTML tags can be found here. Hopefully, it will be helpful for the beginners.</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/HTML-for-Beginners/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/HTML-for-Beginners?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-API-Based-Ticket-Booking-Automation"><b>Bangladesh Railway API Based Ticket Booking Automation (Private)</b></a></td>
     <td>An automated script for booking Bangladesh Railway tickets, featuring authentication, seat reservation, OTP verification, and payment processing.</td>
     <td align="center">
