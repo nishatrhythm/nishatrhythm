@@ -653,19 +653,79 @@
 
 ---
 
-<!-- Certifications -->
-<h2 align="center">📜 Certifications</h2>
+<!-- Certificates Achieved from Events & Competitions -->
+<h2 align="center">📜 Certificates from Notable Events & Competitions</h2>
+
+<!-- Certificates Table -->
+<table align="center">
+  <tr>
+    <th align="center">DATE</th>
+    <th align="center">EVENT/COMPETITION</th>
+    <th align="center">ISSUED BY</th>
+    <th align="center">CERTIFICATES</th>
+  </tr>
+  <tr>
+    <td align="center">December 2024</td>
+    <td align="center">IUBAT TechnoCrats V2 (Dhaka Divisional Hackathon 2024)</td>
+    <td align="center"><a href="https://iubat.edu">International University of Business Agriculture and Technology</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1HLRB7ZJLw8wrW_L0fQgT19Hy9kWWW_cK">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">October 2024</td>
+    <td align="center">ICPC Asia Dhaka Regional Site Online Preliminary Contest 2024-25</td>
+    <td align="center"><a href="https://icpc.global">International Collegiate Programming Contest</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/15vecnV2g6pgS09CAEIboupnrvUBKvl7E">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">October 2024</td>
+    <td align="center">Nasa Space App Challenge 2024 (Dhaka Regional)</td>
+    <td align="center"><a href="https://www.spaceappschallenge.org">National Aeronautics and Space Administration</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1_gLxxz3acz8fYb-9VF_BQdlU4encFYth">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">November 2023</td>
+    <td align="center">CEFALO ITVerse 2023</td>
+    <td align="center"><a href="http://www.iit.du.ac.bd">Institute of Information Technology (IIT), University of Dhaka</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1D0l35BnJmMLfHPIV6I6vGNW-mzrgzUJK">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">September 2022</td>
+    <td align="center">Training on Blockchain</td>
+    <td align="center"><a href="https://www.creativeitinstitute.com">Creative IT Institute</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1--vXYA6Qk7LsEtjFwVIJAhefkGZ5zx8k">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">December 2017</td>
+    <td align="center">Bangladesh Physics Olympiad 2018 (Regional Round)</td>
+    <td align="center"><a href="https://www.bdpho.org">Bangladesh Physics Olympiad Committee</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1wzukrLfb6EZYCCMCSIODqvPnHmVzB-m5">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">August 2017</td>
+    <td align="center">Bangladesh Botany Olympiad 2017 (Mymensingh Division)</td>
+    <td align="center"><a href="https://www.bdbotsociety.org">Bangladesh Botanical Society</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1HHnRa0dL_Ze7sV0Z_dfTG6jqzJjLj1Ic">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center">January 2016</td>
+    <td align="center">Bangladesh Mathematical Olympiad 2016 (Regional Round)</td>
+    <td align="center"><a href="https://matholympiad.org.bd">Bangladesh Mathematical Olympiad</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/119_6rVlaLjIwXK4c1uB6zuicxZs7afhc">View Certificate</a></td>
+  </tr>
+</table>
+
+<br>
 
 <!-- Link to LinkedIn Certifications -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nishatrhythm/details/certifications" target="_blank">
-    <img src="https://img.shields.io/badge/View My Certifications on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications">
+    <img src="https://img.shields.io/badge/View My All Certifications on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications">
   </a>
 </p>
 
 <!-- Button to Google Drive Certificates -->
 <p align="center">
   <a href="https://drive.google.com/drive/u/2/folders/1FwU4_Jaezgl-CoDj9lV98_ld_Loxr9NB" target="_blank">
-    <img src="https://img.shields.io/badge/View My Certificates on Google Drive-blue?style=for-the-badge&logo=googledrive" alt="Google Drive Certificates">
+    <img src="https://img.shields.io/badge/View My All Certificates on Google Drive-blue?style=for-the-badge&logo=googledrive" alt="Google Drive Certificates">
   </a>
 </p>
