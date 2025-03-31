@@ -233,24 +233,6 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-API-Based-Ticket-Booking-Automation"><b>Bangladesh Railway API Based Ticket Booking Automation (Private)</b></a></td>
-    <td>An automated script for booking Bangladesh Railway tickets, featuring authentication, seat reservation, OTP verification, and payment processing.</td>
-    <td align="center">
-      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-API-Based-Ticket-Booking-Automation/stargazers">
-        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-API-Based-Ticket-Booking-Automation?style=social">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Ticket-Booking-Automation-Script"><b>Bangladesh Railway Ticket Booking Automation Script (Private)</b></a></td>
-    <td>Automated script for booking railway tickets on the [Bangladesh Railway website, Powered by Shohoz-Synesis-Vincen JV] using Selenium WebDriver and Python. This script automates the login process, searches for trains based on specified criteria, selects desired seats, handles server errors gracefully, and completes the booking process automatically.</td>
-    <td align="center">
-      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Ticket-Booking-Automation-Script/stargazers">
-        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Ticket-Booking-Automation-Script?style=social">
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Trains-Stations-Coaches-Classes-Info"><b>Bangladesh Railway Trains Stations Coaches Classes Info</b></a></td>
     <td>Comprehensive dataset of trains, coaches, classes and railway stations in Bangladesh, provided in both English and Bengali JSON formats for easy integration into applications and projects.</td>
     <td align="center">
