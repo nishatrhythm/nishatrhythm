@@ -260,11 +260,11 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Seat-Availability-Web-Application"><b>Bangladesh Railway Seat Availability Web Application</b></a></td>
-    <td>A web application for checking Bangladesh Railway seat availability with secure token-based authentication, interactive UI, and real-time data fetching. Available online at <a href="https://trainseat.onrender.com">trainseat.onrender.com</td>
+    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Availability-Web-Application"><b>Bangladesh Railway Train Seat Availability Web Application</b></a></td>
+    <td>A web application for checking Bangladesh railway train seat availability with secure token-based authentication, interactive UI, and real-time data fetching. Available online at <a href="https://trainseat.onrender.com">trainseat.onrender.com</td>
     <td align="center">
-      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Seat-Availability-Web-Application/stargazers">
-        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Seat-Availability-Web-Application?style=social">
+      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Availability-Web-Application/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Train-Seat-Availability-Web-Application?style=social">
       </a>
     </td>
   </tr>
