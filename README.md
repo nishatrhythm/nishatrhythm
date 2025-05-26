@@ -260,6 +260,15 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Matrix-Web-Application"><b>Bangladesh Railway Train Seat Matrix Web Application</b></a></td>
+    <td>A web application for visualizing Bangladesh Railway train seat availability across multiple stations with real-time API integration and interactive matrix display. <a href="https://seat.onrender.com">seat.onrender.com</td>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Matrix-Web-Application/stargazers">
+        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Train-Seat-Matrix-Web-Application?style=social">
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Availability-Web-Application"><b>Bangladesh Railway Train Seat Availability Web Application</b></a></td>
     <td>A web application for checking Bangladesh railway train seat availability with secure token-based authentication, interactive UI, and real-time data fetching. Available online at <a href="https://trainseat.onrender.com">trainseat.onrender.com</td>
     <td align="center">
