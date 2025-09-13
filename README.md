@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://nishat.vercel.app">
+<!--   <a href="https://nishat.vercel.app">
     <img src="banner.png" alt="Nishat Mahmud - Front-end Developer" width="100%">
-  </a>
+  </a> -->
 </p>
 
 <div align="center">
