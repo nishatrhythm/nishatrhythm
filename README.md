@@ -479,7 +479,7 @@
   </tr>
   <tr>
     <td align="center">2021 - Present</td>
-    <td align="center">Front-end Developer</td>
+    <td align="center">Co-Founder and Front-end Developer</td>
     <td align="center"><a href="https://www.linkedin.com/company/gobangladesh" target="_blank">Go Bangladesh</a></td>
     <td align="center">Dhaka, Bangladesh</td>
   </tr>
