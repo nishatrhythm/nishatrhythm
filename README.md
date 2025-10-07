@@ -232,51 +232,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Trains-Stations-Coaches-Classes-Info"><b>Bangladesh Railway Trains Stations Coaches Classes Info</b></a></td>
-    <td>Comprehensive dataset of trains, coaches, classes and railway stations in Bangladesh, provided in both English and Bengali JSON formats for easy integration into applications and projects.</td>
-    <td align="center">
-      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Trains-Stations-Coaches-Classes-Info/stargazers">
-        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Trains-Stations-Coaches-Classes-Info?style=social">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map"><b>Bangladesh Railway Train and Fare List with Route Map</b></a></td>
-    <td>A web app that provides train schedules, seat fares, and interactive route maps for Bangladesh Railway, enabling users to plan their journeys efficiently. Available online at <a href="https://bdrailway.vercel.app">bdrailway.vercel.app</a></td>
-    <td align="center">
-      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map/stargazers">
-        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map?style=social">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Segmented-Seat-Matrix-and-Details-Seat-Availabilty"><b>Bangladesh Railway Segmented Seat Matrix and Details Seat Availabilty</b></a></td>
-    <td>Python tool for analyzing Bangladesh Railway seat matrices for segmented routes. Check seat availability, find optimized segmented paths, and display detailed fare breakdowns with VAT. Interactive terminal-based interface.</td>
-    <td align="center">
-      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Segmented-Seat-Matrix-and-Details-Seat-Availabilty/stargazers">
-        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Segmented-Seat-Matrix-and-Details-Seat-Availabilty?style=social">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Matrix-Web-Application"><b>Bangladesh Railway Train Seat Matrix Web Application</b></a></td>
-    <td>A web application for visualizing Bangladesh Railway train seat availability across multiple stations with real-time API integration and interactive matrix display. <a href="https://seat.onrender.com">seat.onrender.com</td>
-    <td align="center">
-      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Matrix-Web-Application/stargazers">
-        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Train-Seat-Matrix-Web-Application?style=social">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Availability-Web-Application"><b>Bangladesh Railway Train Seat Availability Web Application</b></a></td>
-    <td>A web application for checking Bangladesh railway train seat availability with secure token-based authentication, interactive UI, and real-time data fetching. Available online at <a href="https://trainseat.onrender.com">trainseat.onrender.com</td>
-    <td align="center">
-      <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-Seat-Availability-Web-Application/stargazers">
-        <img src="https://img.shields.io/github/stars/nishatrhythm/Bangladesh-Railway-Train-Seat-Availability-Web-Application?style=social">
-      </a>
-    </td>
-  </tr>
 
   <tr>
     <th colspan="3" align="center"><h3>🌍 Open Source Contributions</h3></th>
