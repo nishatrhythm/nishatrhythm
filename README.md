@@ -6,19 +6,19 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Nishat Mahmud</h1>
-  <p><strong>🎨 UI/UX Designer | Front-end Developer | Tech Enthusiast</strong></p>
-  <p>I love designing intuitive and engaging user experiences that make digital products feel natural and effortless. My journey started with UI/UX design, and now I combine that passion with front-end development to bring ideas to life. I enjoy building interactive applications, optimizing user flows, and continuously learning new technologies.</p>
+  <p><strong>🎯 Software Engineer | Entrepreneur | Tech Enthusiast</strong></p>
+  <p>Passionate about building innovative solutions through web, mobile, and AI/ML development. Co-founder of Go Bangladesh, a government-funded startup. Always learning and growing in the tech world.</p>
 </div>
 
 ---
 
 <h2 align="center">🌍 About Me</h2>
 
-- 🎯 **UI/UX Focused Front-end & Android Developer**
-- 💡 **Proficient in C, C++, Python, Java, and Android Development**
-- 🎨 **UI/UX Expert skilled in Figma, Adobe XD, Photoshop, Illustrator**
-- 🛠 **Proficient in Tools: VS Code, Postman, Android Studio, Git, GitHub Desktop, MS Office Suite**
-- 🎓 **Computer Science & Engineering student at Jagannath University, Dhaka**
+- 🎯 **Results-driven Software Engineer and Entrepreneur**
+- 💡 **Skilled in Python, JavaScript, Next.js, React Native, Node.js, Flask, TensorFlow, PyTorch**
+- 🎨 **UI/UX Expert skilled in Figma, Adobe XD, Photoshop, Illustrator, Premiere Pro**
+- 🛠 **Proficient in Tools: VS Code, Postman, Android Studio, Git, GitHub, Docker, Linux, Adobe Suite**
+- 🎓 **Master's student in Computer Science and Engineering at Jagannath University, Dhaka**
 - 📌 **Always learning & growing!**
 
 ---
@@ -42,8 +42,8 @@
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -52,6 +52,8 @@
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
       <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white">
     </td>
@@ -59,8 +61,21 @@
   <tr>
     <td><strong>Backend</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
       <img src="https://img.shields.io/badge/-REST_API-02569B?style=flat&logo=api&logoColor=white">
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI/ML & Data Science</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -68,6 +83,7 @@
     <td>
       <img src="https://img.shields.io/badge/-Android_Development-3DDC84?style=flat&logo=android&logoColor=white">
       <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white">
+      <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black">
     </td>
   </tr>
   <tr>
@@ -78,6 +94,8 @@
       <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white">
       <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
     </td>
   </tr>
   <tr>
@@ -86,6 +104,8 @@
       <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white">
       <img src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
+      <img src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white">
+      <img src="https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white">
     </td>
   </tr>
 </table>
@@ -427,15 +447,9 @@
     <th align="center">LOCATION</th>
   </tr>
   <tr>
-    <td align="center">2022 - Present</td>
-    <td align="center">Front-end Developer</td>
-    <td align="center"><a href="https://github.com/teamprefetch" target="_blank">Team Prefetch</a></td>
-    <td align="center">Dhaka, Bangladesh</td>
-  </tr>
-  <tr>
     <td align="center">2021 - Present</td>
     <td align="center">Co-Founder and Front-end Developer</td>
-    <td align="center"><a href="https://www.linkedin.com/company/gobangladesh" target="_blank">Go Bangladesh</a></td>
+    <td align="center"><a href="https://www.thegobd.com" target="_blank">Go Bangladesh</a></td>
     <td align="center">Dhaka, Bangladesh</td>
   </tr>
   <tr>
@@ -609,6 +623,12 @@
     <th align="center">EVENT/COMPETITION</th>
     <th align="center">ISSUED BY</th>
     <th align="center">CERTIFICATES</th>
+  </tr>
+  <tr>
+    <td align="center">March 2025</td>
+    <td align="center">MIST Innovation Club Presents INVENTIOUS 4.1 (Project Showcasing)</td>
+    <td align="center"><a href="https://mist.ac.bd">Military Institute of Science and Technology</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1O8XexxFar6VgmiKu8gGr2O2CD30_dlwj">View Certificate</a></td>
   </tr>
   <tr>
     <td align="center">December 2024</td>
