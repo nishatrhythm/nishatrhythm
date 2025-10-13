@@ -7,7 +7,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Nishat Mahmud</h1>
   <p><strong>🎯 Software Engineer | Entrepreneur | Tech Enthusiast</strong></p>
-  <p>Passionate about building innovative solutions through web, mobile, and AI/ML development. Co-founder of Go Bangladesh, a government-funded startup. Always learning and growing in the tech world.</p>
+  <p>Passionate about building innovative solutions through web, mobile, and AI/ML development. Co-founder of <a href="https://idea.gov.bd/status">Go Bangladesh, a portfolio startup</a> of Innovation Design and Entrepreneurship Academy (iDEA) Project of Bangladesh Computer Council under the ICT Division. Always learning and growing in the tech world.</p>
 </div>
 
 ---
