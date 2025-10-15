@@ -23,6 +23,78 @@
 
 ---
 
+<!-- Education -->
+<h2 align="center">📚 Education</h2>
+
+<!-- Education Table -->
+<table align="center">
+  <tr>
+    <th align="center">TIMELINE</th>
+    <th align="center">DEGREE</th>
+    <th align="center">DEPARTMENT / GROUP</th>
+    <th align="center">INSTITUTION</th>
+    <th align="center">LOCATION</th>
+  </tr>
+  <tr>
+    <td align="center">2025 - Present</td>
+    <td align="center">Masters of Science (B.Sc)</td>
+    <td align="center">Computer Science and Engineering</td>
+    <td align="center"><a href="https://jnu.ac.bd">Jagannath University, Dhaka</a></td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+<tr>
+    <td align="center">2020 - 2025</td>
+    <td align="center">Bachelor of Science (B.Sc)</td>
+    <td align="center">Computer Science and Engineering</td>
+    <td align="center"><a href="https://jnu.ac.bd">Jagannath University, Dhaka</a></td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2017 - 2019</td>
+    <td align="center">Higher Secondary School Certificate (HSC)</td>
+    <td align="center">Science</td>
+    <td align="center"><a href="https://www.anandamohangovtcollege.edu.bd">Govt. Ananda Mohon College, Mymensingh</a></td>
+    <td align="center">Mymensingh, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2009 - 2017</td>
+    <td align="center">Secondary School Certificate (SSC)</td>
+    <td align="center">Science</td>
+    <td align="center"><a href="http://www.mzs.edu.bd">Mymensingh Zilla School</a></td>
+    <td align="center">Mymensingh, Bangladesh</td>
+  </tr>
+</table>
+
+---
+
+<!-- Experiences -->
+<h2 align="center">🌟 Experiences</h2>
+
+<!-- Experience Table -->
+<table align="center">
+  <tr>
+    <th align="center">TIMELINE</th>
+    <th align="center">POSITION</th>
+    <th align="center">COMPANY</th>
+    <th align="center">LOCATION</th>
+  </tr>
+  <tr>
+    <td align="center">2021 - Present</td>
+    <td align="center">Co-Founder and Front-end Developer</td>
+    <td align="center"><a href="https://www.thegobd.com" target="_blank">Go Bangladesh</a></td>
+    <td align="center">Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td align="center">2018 - Present</td>
+    <td align="center">Founder and Content Creator</td>
+    <td align="center"><a href="https://www.youtube.com/wikitricks" target="_blank">Wikitricks</a></td>
+    <td align="center">Bangladesh</td>
+  </tr>
+  <!-- Add more rows for your experiences -->
+</table>
+
+---
+
 <h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
   <a href="mailto:nishatrhythm@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
@@ -430,71 +502,6 @@
         <img src="https://img.shields.io/github/stars/nishatrhythm/Simple-C-and-C-Plus-PLus-Program?style=social">
       </a>
     </td>
-  </tr>
-</table>
-
----
-
-<!-- Experiences -->
-<h2 align="center">🌟 Experiences</h2>
-
-<!-- Experience Table -->
-<table align="center">
-  <tr>
-    <th align="center">TIMELINE</th>
-    <th align="center">POSITION</th>
-    <th align="center">COMPANY</th>
-    <th align="center">LOCATION</th>
-  </tr>
-  <tr>
-    <td align="center">2021 - Present</td>
-    <td align="center">Co-Founder and Front-end Developer</td>
-    <td align="center"><a href="https://www.thegobd.com" target="_blank">Go Bangladesh</a></td>
-    <td align="center">Dhaka, Bangladesh</td>
-  </tr>
-  <tr>
-    <td align="center">2018 - Present</td>
-    <td align="center">Founder and Content Creator</td>
-    <td align="center"><a href="https://www.youtube.com/wikitricks" target="_blank">Wikitricks</a></td>
-    <td align="center">Bangladesh</td>
-  </tr>
-  <!-- Add more rows for your experiences -->
-</table>
-
----
-
-<!-- Education -->
-<h2 align="center">📚 Education</h2>
-
-<!-- Education Table -->
-<table align="center">
-  <tr>
-    <th align="center">TIMELINE</th>
-    <th align="center">DEGREE</th>
-    <th align="center">DEPARTMENT / GROUP</th>
-    <th align="center">INSTITUTION</th>
-    <th align="center">LOCATION</th>
-  </tr>
-  <tr>
-    <td align="center">2020 - 2025</td>
-    <td align="center">Bachelor of Science (B.Sc)</td>
-    <td align="center">Computer Science and Engineering</td>
-    <td align="center"><a href="https://jnu.ac.bd">Jagannath University, Dhaka</a></td>
-    <td align="center">Dhaka, Bangladesh</td>
-  </tr>
-  <tr>
-    <td align="center">2017 - 2019</td>
-    <td align="center">Higher Secondary School Certificate (HSC)</td>
-    <td align="center">Science</td>
-    <td align="center"><a href="https://www.anandamohangovtcollege.edu.bd">Govt. Ananda Mohon College, Mymensingh</a></td>
-    <td align="center">Mymensingh, Bangladesh</td>
-  </tr>
-  <tr>
-    <td align="center">2009 - 2017</td>
-    <td align="center">Secondary School Certificate (SSC)</td>
-    <td align="center">Science</td>
-    <td align="center"><a href="http://www.mzs.edu.bd">Mymensingh Zilla School</a></td>
-    <td align="center">Mymensingh, Bangladesh</td>
   </tr>
 </table>
 
