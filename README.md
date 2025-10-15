@@ -40,28 +40,28 @@
     <td align="center">Masters of Science (B.Sc)</td>
     <td align="center">Computer Science and Engineering</td>
     <td align="center"><a href="https://jnu.ac.bd">Jagannath University, Dhaka</a></td>
-    <td align="center">Dhaka, Bangladesh</td>
+    <td align="center"><a href="https://maps.app.goo.gl/vnxefLsjfvwx41Fo8">Dhaka, Bangladesh</a></td>
   </tr>
 <tr>
     <td align="center">2020 - 2025</td>
     <td align="center">Bachelor of Science (B.Sc)</td>
     <td align="center">Computer Science and Engineering</td>
     <td align="center"><a href="https://jnu.ac.bd">Jagannath University, Dhaka</a></td>
-    <td align="center">Dhaka, Bangladesh</td>
+    <td align="center"><a href="https://maps.app.goo.gl/vnxefLsjfvwx41Fo8">Dhaka, Bangladesh</a></td>
   </tr>
   <tr>
     <td align="center">2017 - 2019</td>
     <td align="center">Higher Secondary School Certificate (HSC)</td>
     <td align="center">Science</td>
     <td align="center"><a href="https://www.anandamohangovtcollege.edu.bd">Govt. Ananda Mohon College, Mymensingh</a></td>
-    <td align="center">Mymensingh, Bangladesh</td>
+    <td align="center"><a href="https://maps.app.goo.gl/YAGrS7qorbLCLoht8">Mymensingh, Bangladesh</a></td>
   </tr>
   <tr>
     <td align="center">2009 - 2017</td>
     <td align="center">Secondary School Certificate (SSC)</td>
     <td align="center">Science</td>
     <td align="center"><a href="http://www.mzs.edu.bd">Mymensingh Zilla School</a></td>
-    <td align="center">Mymensingh, Bangladesh</td>
+    <td align="center"><a href="https://maps.app.goo.gl/WnY28rXk4HUWdcR3A">Mymensingh, Bangladesh</a></td>
   </tr>
 </table>
 
@@ -82,7 +82,7 @@
     <td align="center">2021 - Present</td>
     <td align="center">Co-Founder and Front-end Developer</td>
     <td align="center"><a href="https://www.thegobd.com" target="_blank">Go Bangladesh</a></td>
-    <td align="center">ICT Tower, Agargaon, Dhaka, Bangladesh</td>
+    <td align="center"><a href="https://maps.app.goo.gl/P3VkbNSHvyTAtLuQ8">ICT Tower, Agargaon, Dhaka, Bangladesh</a></td>
   </tr>
   <tr>
     <td align="center">2018 - Present</td>
