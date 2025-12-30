@@ -197,14 +197,17 @@
   </a>
   <br>
   <a href="https://github.com/nishatrhythm">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=nishatrhythm&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img width="400px" src="https://github-readme-stats-salesp07.vercel.app/api?username=nishatrhythm&count_private=true&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
   </a>
+
   <a href="https://github.com/nishatrhythm">
-    <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatrhythm&layout=compact&theme=radical" alt="Top Languages">
+    <img width="305px" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nishatrhythm&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
   </a>
+
   <a href="https://github.com/nishatrhythm">
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=nishatrhythm&theme=radical" alt="Contribution Streak">
+    <img width="400px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nishatrhythm&count_private=true&theme=radical" alt="Contribution Streak">
   </a>
+
   <a href="https://github.com/nishatrhythm">
     <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatrhythm&theme=radical" alt="GitHub Contribution Graph">
   </a>
