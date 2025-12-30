@@ -10,6 +10,36 @@
   <p>Passionate about building innovative solutions through web, mobile, and AI/ML development. Co-founder of <a href="https://idea.gov.bd/status">Go Bangladesh, a portfolio startup</a> of Innovation Design and Entrepreneurship Academy (iDEA) Project of Bangladesh Computer Council under the ICT Division. Always learning and growing in the tech world.</p>
 </div>
 
+<!-- QR Codes Row (Always One Line with Captions) -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nishatrhythm">
+        <img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="145" />
+      </a><br>
+      <b>GitHub</b>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/nishatrhythm">
+        <img src="https://i.postimg.cc/tYq2Jhd6/linkedin.jpg" width="145" />
+      </a><br>
+      <b>LinkedIn</b>
+    </td>
+    <td align="center">
+      <a href="https://x.com/nishatrhythm">
+        <img src="https://i.postimg.cc/HVYBnQ0X/x.jpg" width="145" />
+      </a><br>
+      <b>X</b>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/wikitricks">
+        <img src="https://i.postimg.cc/Czhm5jCb/youtube.jpg" width="145" />
+      </a><br>
+      <b>YouTube</b>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <h2 align="center">🌍 About Me</h2>
