@@ -546,7 +546,7 @@
     <td align="center">15 November 2023</td>
     <td align="center">1ST RUNNER-UP</td>
     <td align="center">Robot and Project Exhibition</td>
-    <td align="center"><a href="https://bsfmstu.ac.bd">Jamalpur Science & Technology University</a></td>
+    <td align="center"><a href="https://jstu.ac.bd">Jamalpur Science & Technology University</a></td>
     <td align="center">National Conference on Robotics & IoT, JSTU, Melandaha, Jamalpur</td>
     <td align="center"><a href="https://drive.google.com/file/d/1ArqZaSBIP6tI-HUJtP8iyZ_AucCh7DfD">View Certificate</a></td>
   </tr>
