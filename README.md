@@ -13,30 +13,10 @@
 <!-- QR Codes Row (Always One Line with Captions) -->
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://github.com/nishatrhythm">
-        <img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="145" />
-      </a><br>
-      <b>GitHub</b>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/nishatrhythm">
-        <img src="https://i.postimg.cc/tYq2Jhd6/linkedin.jpg" width="145" />
-      </a><br>
-      <b>LinkedIn</b>
-    </td>
-    <td align="center">
-      <a href="https://x.com/nishatrhythm">
-        <img src="https://i.postimg.cc/HVYBnQ0X/x.jpg" width="145" />
-      </a><br>
-      <b>X</b>
-    </td>
-    <td align="center">
-      <a href="https://youtube.com/wikitricks">
-        <img src="https://i.postimg.cc/Czhm5jCb/youtube.jpg" width="145" />
-      </a><br>
-      <b>YouTube</b>
-    </td>
+    <td><a href="https://github.com/nishatrhythm"><img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="145"></a></td>
+    <td><a href="https://linkedin.com/in/nishatrhythm"><img src="https://i.postimg.cc/tYq2Jhd6/linkedin.jpg" width="145"></a></td>
+    <td><a href="https://x.com/nishatrhythm"><img src="https://i.postimg.cc/HVYBnQ0X/x.jpg" width="145"></a></td>
+    <td><a href="https://youtube.com/wikitricks"><img src="https://i.postimg.cc/Czhm5jCb/youtube.jpg" width="145"></a></td>
   </tr>
 </table>
 
