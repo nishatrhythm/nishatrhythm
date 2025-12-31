@@ -13,6 +13,7 @@
 <!-- QR Codes Row (Always One Line with Captions) -->
 <table align="center">
   <tr>
+    <td><a href="https://nishat.vercel.app"><img src="https://i.postimg.cc/JhtpTpBK/portfolio.jpg" width="145"></a></td>
     <td><a href="https://github.com/nishatrhythm"><img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="145"></a></td>
     <td><a href="https://linkedin.com/in/nishatrhythm"><img src="https://i.postimg.cc/tYq2Jhd6/linkedin.jpg" width="145"></a></td>
     <td><a href="https://x.com/nishatrhythm"><img src="https://i.postimg.cc/HVYBnQ0X/x.jpg" width="145"></a></td>
