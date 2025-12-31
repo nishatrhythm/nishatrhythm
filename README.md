@@ -203,25 +203,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nishatrhythm">
-    <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishatrhythm&theme=radical" alt="GitHub Profile Summary">
-  </a>
-  <br>
-  <a href="https://github.com/nishatrhythm">
-    <img width="400px" src="https://github-readme-stats-salesp07.vercel.app/api?username=nishatrhythm&count_private=true&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
-  </a>
-
-  <a href="https://github.com/nishatrhythm">
-    <img width="305px" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nishatrhythm&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
-  </a>
-
-  <a href="https://github.com/nishatrhythm">
-    <img width="400px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nishatrhythm&count_private=true&theme=radical" alt="Contribution Streak">
-  </a>
-
-  <a href="https://github.com/nishatrhythm">
-    <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=nishatrhythm&theme=radical" alt="GitHub Contribution Graph">
-  </a>
+  <img src="https://yourinsights.vercel.app/api/insight?username=nishatrhythm&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 <p align="center">
