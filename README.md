@@ -203,7 +203,7 @@
 </p>
 
 <p align="center"><a href="https://yourinsights.vercel.app">
-  <img src="https://yourinsights.vercel.app/api/insight?username=nishatrhythm&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=nishatrhythm&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </a>
 </p>
 
