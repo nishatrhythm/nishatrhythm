@@ -6,8 +6,8 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Nishat Mahmud</h1>
-  <p><strong>🎯 Front-end Developer | Entrepreneur | Tech Enthusiast | CSE Postgraduate Student</strong></p>
-  <p>Passionate about building innovative solutions through web, mobile, and AI/ML development. Co-founder of <a href="https://idea.gov.bd/status">Go Bangladesh, a portfolio startup</a> of Innovation Design and Entrepreneurship Academy (iDEA) Project of Bangladesh Computer Council under the ICT Division. Always learning and growing in the tech world.</p>
+  <p><strong>🎯 Software Quality Assurance Engineer | Front-end Developer | Tech Enthusiast | CSE Postgraduate Student</strong></p>
+  <p>Passionate about building innovative solutions through web, mobile, and AI/ML development. Always learning and growing in the tech world.</p>
 </div>
 
 <!-- QR Codes Row (Always One Line with Captions) -->
@@ -47,28 +47,28 @@
     <th align="center">LOCATION</th>
   </tr>
   <tr>
-    <td align="center">2025 - Present</td>
+    <td align="center">Oct 2025 - Present</td>
     <td align="center">Masters of Science (B.Sc)</td>
     <td align="center">Computer Science and Engineering</td>
     <td align="center"><a href="https://jnu.ac.bd">Jagannath University, Dhaka</a></td>
     <td align="center"><a href="https://maps.app.goo.gl/vnxefLsjfvwx41Fo8">Dhaka, Bangladesh</a></td>
   </tr>
 <tr>
-    <td align="center">2020 - 2025</td>
+    <td align="center">Jan 2020 - Sep 2025</td>
     <td align="center">Bachelor of Science (B.Sc)</td>
     <td align="center">Computer Science and Engineering</td>
     <td align="center"><a href="https://jnu.ac.bd">Jagannath University, Dhaka</a></td>
     <td align="center"><a href="https://maps.app.goo.gl/vnxefLsjfvwx41Fo8">Dhaka, Bangladesh</a></td>
   </tr>
   <tr>
-    <td align="center">2017 - 2019</td>
+    <td align="center">Jun 2017 - Jul 2019</td>
     <td align="center">Higher Secondary School Certificate (HSC)</td>
     <td align="center">Science</td>
     <td align="center"><a href="https://www.anandamohangovtcollege.edu.bd">Govt. Ananda Mohon College, Mymensingh</a></td>
     <td align="center"><a href="https://maps.app.goo.gl/YAGrS7qorbLCLoht8">Mymensingh, Bangladesh</a></td>
   </tr>
   <tr>
-    <td align="center">2009 - 2017</td>
+    <td align="center">Jan 2009 - Apr 2017</td>
     <td align="center">Secondary School Certificate (SSC)</td>
     <td align="center">Science</td>
     <td align="center"><a href="http://www.mzs.edu.bd">Mymensingh Zilla School</a></td>
@@ -90,16 +90,16 @@
     <th align="center">LOCATION</th>
   </tr>
   <tr>
-    <td align="center">2021 - Present</td>
-    <td align="center">Co-Founder and Front-end Developer</td>
-    <td align="center"><a href="https://www.thegobd.com" target="_blank">Go Bangladesh</a></td>
-    <td align="center"><a href="https://maps.app.goo.gl/P3VkbNSHvyTAtLuQ8">ICT Tower, Agargaon, Dhaka, Bangladesh</a></td>
-  </tr>
-  <tr>
-    <td align="center">2018 - Present</td>
+    <td align="center">May 2018 - Present</td>
     <td align="center">Founder and Content Creator</td>
     <td align="center"><a href="https://www.youtube.com/wikitricks" target="_blank">Wikitricks</a></td>
     <td align="center">Online</td>
+  </tr>
+  <tr>
+    <td align="center">Sep 2021 - Jan 2026</td>
+    <td align="center">Co-Founder and Front-end Developer</td>
+    <td align="center"><a href="https://www.thegobd.com" target="_blank">Go Bangladesh</a></td>
+    <td align="center"><a href="https://maps.app.goo.gl/P3VkbNSHvyTAtLuQ8">ICT Tower, Agargaon, Dhaka, Bangladesh</a></td>
   </tr>
   <!-- Add more rows for your experiences -->
 </table>
