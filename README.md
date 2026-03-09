@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://nishatmahmud.me"><img src="https://i.postimg.cc/JhtpTpBK/portfolio.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nishat.vercel.app"><img src="https://i.postimg.cc/JhtpTpBK/portfolio.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nishatrhythm"><img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nishatrhythm"><img src="https://i.postimg.cc/tYq2Jhd6/linkedin.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/nishatrhythm"><img src="https://i.postimg.cc/HVYBnQ0X/x.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/@wikitricks"><img src="https://i.postimg.cc/Czhm5jCb/youtube.jpg" width="120"/></a>
+  <a href="https://youtube.com/wikitricks"><img src="https://i.postimg.cc/Czhm5jCb/youtube.jpg" width="120"/></a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 | Period | Role | Organization |
 |:---|:---|:---|
 | Sep 2021 – Jan 2026 | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Gov't-funded ticketing startup, ICT Division |
-| May 2018 – Present | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/@wikitricks), YouTube Channel |
+| May 2018 – Present | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/wikitricks), YouTube Channel |
 | Mar 2025 – Dec 2025 | **General Member** | [IEEE Computer Society](https://ieeecsbdc.org/chapter/cs-jnu), JnU Student Branch |
 
 ---
@@ -47,10 +47,10 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 | Degree | Institution | Period | Result |
 |:---|:---|:---|:---|
-| **M.Sc. in CSE** | Jagannath University, Dhaka | Oct 2025 – Present | Ongoing |
-| **B.Sc. in CSE** | Jagannath University, Dhaka | Jan 2020 – Sep 2025 | CGPA 3.56/4.0 |
-| **HSC** (Science) | Govt. Ananda Mohon College, Mymensingh | Jun 2017 – Jul 2019 | GPA 5.00/5.00 |
-| **SSC** (Science) | Mymensingh Zilla School | Jan 2009 – Apr 2017 | GPA 5.00/5.00 |
+| **M.Sc. in CSE** | [Jagannath University, Dhaka](https://jnu.ac.bd) | Oct 2025 – Present | Ongoing |
+| **B.Sc. in CSE** | [Jagannath University, Dhaka](https://jnu.ac.bd) | Jan 2020 – Sep 2025 | CGPA 3.56/4.0 |
+| **HSC** (Science) | [Govt. Ananda Mohon College, Mymensingh](https://www.anandamohangovtcollege.edu.bd) | Jun 2017 – Jul 2019 | GPA 5.00/5.00 |
+| **SSC** (Science) | [Mymensingh Zilla School](http://www.mzs.edu.bd) | Jan 2009 – Apr 2017 | GPA 5.00/5.00 |
 
 ---
 
@@ -58,7 +58,6 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 **A Seamless and Contactless Ticketing System using Ultra-Wideband (UWB) and Integrated Localization for Public Transport**
 <br/><sub>Department of CSE, Jagannath University, Dhaka • Feb 2025 – Sep 2025</sub>
-
 - Proposed UWB-based framework for seamless, contactless ticketing with integrated passenger localization
 - Designed high-precision two-zone detection architecture and secure transaction protocols
 - Validated through MATLAB simulation, achieving superior performance over NFC, RFID, and QR code solutions
@@ -144,7 +143,7 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 <h2 align="center">Projects</h2>
 
-> A selection of key projects across web, mobile, AI/ML, and design. Full list on my [portfolio](https://nishatmahmud.me) and [GitHub repos](https://github.com/nishatrhythm?tab=repositories).
+> A selection of key projects across web, mobile, AI/ML, and design. Full list on my [portfolio](https://nishat.vercel.app) and [GitHub repos](https://github.com/nishatrhythm?tab=repositories).
 
 #### Web Applications
 
@@ -204,45 +203,45 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 <h2 align="center">Achievements</h2>
 
-| Award | Segment | Issued By | Date |
-|:---|:---|:---|:---:|
-| 🥇 **Champion** | Innovation Showcasing | University Grants Commission of Bangladesh | 18 Feb 2024 |
-| 🥇 **Champion** | Project Showcase, Senior | MBSTU Robo Tech Olympiad | 7 Feb 2023 |
-| 🥇 **Champion** | Idea Presentation | MBSTU Robo Tech Olympiad | 7 Feb 2023 |
-| 💰 **10 Lac BDT Fund** | Startup Project ("Go Bangladesh") | iDEA, ICT Division | 6 Feb 2022 |
-| 🥈 **1st Runner-Up** | Robot & Project Exhibition | JSTU, Jamalpur | 15 Nov 2023 |
-| 🥈 **1st Runner-Up** | Apps Showcasing | JnU IT Society | 15 Nov 2022 |
-| 🥈 **1st Runner-Up** | Project Showcase, Senior | NACTAR Robotics Olympiad | 6 Aug 2022 |
-| 🥈 **1st Runner-Up** | Project Showcase, Software | RUET CSE FEST-2K22 | 6 Jun 2022 |
-| 🥈 **1st Runner-Up** | Idea Presentation | Hult Prize at JnU | 26 Mar 2022 |
-| 🥉 **2nd Runner-Up** | Idea Contest | RUET CSE FEST-2K22 | 6 Jun 2022 |
-| 🏅 **Top 30** | Idea Presentation | Mujib 100 Idea Contest (UGC) | 30 Dec 2021 |
+| Award | Segment | Issued By | Date | Certificate |
+|:---|:---|:---|:---:|:---:|
+| 🥇 **Champion** | Innovation Showcasing | [University Grants Commission of Bangladesh](https://ugc.gov.bd) | 18 Feb 2024 | [View](https://drive.google.com/file/d/18Ar4x6eitG7JidrW2MNw_OH_35Z7BCiA) |
+| 🥇 **Champion** | Project Showcase, Senior | [MBSTU Robo Tech Olympiad](https://mbstu.ac.bd) | 7 Feb 2023 | [View](https://drive.google.com/file/d/1WTQDTPLQE4jYFvX021I9mTm31AFVUZYR) |
+| 🥇 **Champion** | Idea Presentation | [MBSTU Robo Tech Olympiad](https://mbstu.ac.bd) | 7 Feb 2023 | [View](https://drive.google.com/file/d/1UhPNu_sKUZQ2P4d2eIrTj92kGV--Hvc3) |
+| 💰 **10 Lac BDT Fund** | Startup Project ("Go Bangladesh") | [iDEA, ICT Division](https://idea.gov.bd) | 6 Feb 2022 | — |
+| 🥈 **1st Runner-Up** | Robot & Project Exhibition | [JSTU, Jamalpur](https://jstu.ac.bd) | 15 Nov 2023 | [View](https://drive.google.com/file/d/1ArqZaSBIP6tI-HUJtP8iyZ_AucCh7DfD) |
+| 🥈 **1st Runner-Up** | Apps Showcasing | [JnU IT Society](https://jnuits.org.bd) | 15 Nov 2022 | [View](https://drive.google.com/file/d/1k0ax9FP5Nw4Z2ui5WaUJnYYzsDuBqiPw) |
+| 🥈 **1st Runner-Up** | Project Showcase, Senior | [NACTAR Robotics Olympiad](https://nactar.gov.bd) | 6 Aug 2022 | [View](https://drive.google.com/file/d/1Ypeza-QvUfs-EzkeGxVIDJ0x7OsgIiHF) |
+| 🥈 **1st Runner-Up** | Project Showcase, Software | [RUET CSE FEST-2K22](https://www.ruet.ac.bd) | 6 Jun 2022 | [View](https://drive.google.com/file/d/1N8seZOtadX_rik2D7c_x--MjtNMmCRQp) |
+| 🥈 **1st Runner-Up** | Idea Presentation | [Hult Prize at JnU](https://jnu.ac.bd) | 26 Mar 2022 | [View](https://drive.google.com/file/d/1PsRuHgcToXTLcfTk4pkxqbYZGyvFs77z) |
+| 🥉 **2nd Runner-Up** | Idea Contest | [RUET CSE FEST-2K22](https://www.ruet.ac.bd) | 6 Jun 2022 | [View](https://drive.google.com/file/d/1GApRwryViwlz7JY3q1M0ftZX8Ty8KX0S) |
+| 🏅 **Top 30** | Idea Presentation | [Mujib 100 Idea Contest (UGC)](https://www.ic4irb.com/mujib100ideas) | 30 Dec 2021 | [View](https://drive.google.com/file/d/1O-49Sm52Nam7vCmnRklnjdMKy113WTaO) |
 
 ---
 
 <h2 align="center">Notable Participations</h2>
 
-| Date | Event | Organized By |
-|:---|:---|:---|
-| March 2025 | INVENTIOUS 4.1 (Project Showcasing) | MIST Innovation Club |
-| December 2024 | TechnoCrats V2, Dhaka Divisional Hackathon 2024 | IUBAT |
-| November 2024 | Kubernetes Orchestration Workshop | IEEE CS JnU SBC |
-| October 2024 | ICPC Asia Dhaka Regional Site Online Preliminary Contest 2024-25 | ICPC |
-| October 2024 | NASA Space Apps Challenge 2024 (Dhaka Regional) | NASA |
-| March 2024 | Intra University Programming Contest 2024 | Jagannath University |
-| February 2024 | 21st Century Employability Skilling Program (Advanced) | Wadhwani Foundation |
-| November 2023 | CEFALO ITVerse 2023 | IIT, University of Dhaka |
-| October 2023 | ICPC Asia Dhaka Regional Site Online Preliminary Contest 2023-24 | ICPC |
-| February 2023 | Intra University Programming Contest 2023 | Jagannath University |
-| September 2022 | Training on Blockchain | Creative IT Institute |
-| April 2021 | ICPC Asia Dhaka Regional Site Online Preliminary Contest 2020-21 | ICPC |
-| December 2017 | Bangladesh Physics Olympiad 2018 (Regional Round) | BdPhO Committee |
-| August 2017 | Bangladesh Botany Olympiad 2017 (Mymensingh Division) | Bangladesh Botanical Society |
-| January 2016 | Bangladesh Mathematical Olympiad 2016 (Regional Round) | BdMO |
-| January 2014 | Bangladesh Mathematical Olympiad 2014 (Regional Round) | BdMO |
-| January 2013 | Bangladesh Mathematical Olympiad 2013 (Regional Round) | BdMO |
-| February 2012 | Bangladesh Mathematical Olympiad 2012 (Regional Round) | BdMO |
-| January 2011 | Bangladesh Mathematical Olympiad 2011 (Regional Round) | BdMO |
+| Date | Event | Organized By | Certificate |
+|:---|:---|:---|:---:|
+| March 2025 | INVENTIOUS 4.1 (Project Showcasing) | [MIST Innovation Club](https://mist.ac.bd) | [View](https://drive.google.com/file/d/1O8XexxFar6VgmiKu8gGr2O2CD30_dlwj) |
+| December 2024 | TechnoCrats V2, Dhaka Divisional Hackathon 2024 | [IUBAT](https://iubat.edu) | [View](https://drive.google.com/file/d/1HLRB7ZJLw8wrW_L0fQgT19Hy9kWWW_cK) |
+| November 2024 | Kubernetes Orchestration Workshop | [IEEE CS JnU SBC](https://ieeecsbdc.org/chapter/cs-jnu) | [View](https://drive.google.com/file/d/1bEeI4frspEUf5mqB6A2_E40PotH_4d6G) |
+| October 2024 | ICPC Asia Dhaka Regional Site Online Preliminary Contest 2024-25 | [ICPC](https://icpc.global) | [View](https://drive.google.com/file/d/15vecnV2g6pgS09CAEIboupnrvUBKvl7E) |
+| October 2024 | NASA Space Apps Challenge 2024 (Dhaka Regional) | [NASA](https://www.spaceappschallenge.org) | [View](https://drive.google.com/file/d/1_gLxxz3acz8fYb-9VF_BQdlU4encFYth) |
+| March 2024 | Intra University Programming Contest 2024 | [Jagannath University](https://jnu.ac.bd/department/portal/cse) | [View](https://drive.google.com/file/d/1UybE1XzAhzsJ6QlaEvW69LCLdNlrm5rH) |
+| February 2024 | 21st Century Employability Skilling Program (Advanced) | [Wadhwani Foundation](https://wadhwanifoundation.org) | [View](https://drive.google.com/file/d/1nkdnW9EBnxjHDRT0pOeZItXtjaqiwFk8) |
+| November 2023 | CEFALO ITVerse 2023 | [IIT, University of Dhaka](http://www.iit.du.ac.bd) | [View](https://drive.google.com/file/d/1D0l35BnJmMLfHPIV6I6vGNW-mzrgzUJK) |
+| October 2023 | ICPC Asia Dhaka Regional Site Online Preliminary Contest 2023-24 | [ICPC](https://icpc.global) | [View](https://drive.google.com/file/d/1vsijHOyEUMSwcNQNNY5_tVmuEBx3p4aV) |
+| February 2023 | Intra University Programming Contest 2023 | [Jagannath University](https://jnu.ac.bd/department/portal/cse) | [View](https://drive.google.com/file/d/1a0LQH0btHuApcEVgIZ5ZJzHHxpVJ8poQ) |
+| September 2022 | Training on Blockchain | [Creative IT Institute](https://www.creativeitinstitute.com) | [View](https://drive.google.com/file/d/1--vXYA6Qk7LsEtjFwVIJAhefkGZ5zx8k) |
+| April 2021 | ICPC Asia Dhaka Regional Site Online Preliminary Contest 2020-21 | [ICPC](https://icpc.global) | [View](https://drive.google.com/file/d/18W8mDkBA2lqH6WcAVXcy01Pk3I-iRHRt) |
+| December 2017 | Bangladesh Physics Olympiad 2018 (Regional Round) | [BdPhO Committee](https://www.bdpho.org) | [View](https://drive.google.com/file/d/1wzukrLfb6EZYCCMCSIODqvPnHmVzB-m5) |
+| August 2017 | Bangladesh Botany Olympiad 2017 (Mymensingh Division) | [Bangladesh Botanical Society](https://www.bdbotsociety.org) | [View](https://drive.google.com/file/d/1HHnRa0dL_Ze7sV0Z_dfTG6jqzJjLj1Ic) |
+| January 2016 | Bangladesh Mathematical Olympiad 2016 (Regional Round) | [BdMO](https://matholympiad.org.bd) | [View](https://drive.google.com/file/d/119_6rVlaLjIwXK4c1uB6zuicxZs7afhc) |
+| January 2014 | Bangladesh Mathematical Olympiad 2014 (Regional Round) | [BdMO](https://matholympiad.org.bd) | [View](https://drive.google.com/file/d/10y95Yo2c8EfCfUlqq1HXmUug9zLZAQVO) |
+| January 2013 | Bangladesh Mathematical Olympiad 2013 (Regional Round) | [BdMO](https://matholympiad.org.bd) | [View](https://drive.google.com/file/d/13yu8cSY9khVeavmsZgj2lzDHkK-bXheQ) |
+| February 2012 | Bangladesh Mathematical Olympiad 2012 (Regional Round) | [BdMO](https://matholympiad.org.bd) | [View](https://drive.google.com/file/d/1XqgHVwh43t5oCDscJhm14JHnO2ukV9au) |
+| January 2011 | Bangladesh Mathematical Olympiad 2011 (Regional Round) | [BdMO](https://matholympiad.org.bd) | [View](https://drive.google.com/file/d/1XemuHAmhZuPn-fSdXz4TMTc6f346LutE) |
 
 <p>
   <a href="https://www.linkedin.com/in/nishatrhythm/details/certifications"><img src="https://img.shields.io/badge/All_Certifications-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -311,6 +310,6 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 <p align="center">
   <a href="mailto:nishatrhythm@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/nishatrhythm"><img src="https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://nishatmahmud.me"><img src="https://img.shields.io/badge/Portfolio-4A90D9?style=flat&logo=google-chrome&logoColor=white" /></a>&nbsp;
+  <a href="https://nishat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4A90D9?style=flat&logo=google-chrome&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/nishatrhythm?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
