@@ -48,7 +48,7 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 | Degree | Institution | Period | Result |
 |:---|:---|:---|:---|
 | **M.Sc. in CSE** | [Jagannath University, Dhaka](https://jnu.ac.bd) | Oct 2025 – Present | Ongoing |
-| **B.Sc. in CSE** | [Jagannath University, Dhaka](https://jnu.ac.bd) | Jan 2020 – Sep 2025 | CGPA 3.56/4.0 |
+| **B.Sc. in CSE** | [Jagannath University, Dhaka](https://jnu.ac.bd) | Jan 2020 – Sep 2025 | CGPA 3.56/4.00 |
 | **HSC** (Science) | [Govt. Ananda Mohon College, Mymensingh](https://www.anandamohangovtcollege.edu.bd) | Jun 2017 – Jul 2019 | GPA 5.00/5.00 |
 | **SSC** (Science) | [Mymensingh Zilla School](http://www.mzs.edu.bd) | Jan 2009 – Apr 2017 | GPA 5.00/5.00 |
 
