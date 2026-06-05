@@ -27,7 +27,7 @@
 
 <h2 align="center">About</h2>
 
-Results-driven software engineer and entrepreneur with experience in web, mobile, and AI/ML development. Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy. Currently pursuing my **Master's in CSE** at Jagannath University, Dhaka, with research focused on **contactless ticketing using Ultra-Wideband (UWB) technology** for public transport.
+Results-driven software engineer and entrepreneur with experience in web, mobile, and AI/ML development. Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy. Currently pursuing my **Master's in CSE** at Jagannath University, Dhaka, with research focused on **contactless ticketing using Ultra-Wideband (UWB) technology** for public transport.
 
 I build scalable applications, integrate APIs, and deliver innovative solutions: real-time seat tracking systems serving 2,000+ daily users, CNN-based traffic sign classifiers, and full-featured web clients with encrypted authentication.
 
