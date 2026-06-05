@@ -37,7 +37,7 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 | Period | Role | Organization |
 |:---|:---|:---|
-| Sep 2021 – Jan 2026 | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Gov't-funded ticketing startup, ICT Division |
+| Sep 2021 – Present | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Gov't-funded ticketing startup, ICT Division |
 | May 2018 – Present | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/wikitricks), YouTube Channel |
 | Mar 2025 – Dec 2025 | **General Member** | [IEEE Computer Society](https://ieeecsbdc.org/chapter/cs-jnu), JnU Student Branch |
 
