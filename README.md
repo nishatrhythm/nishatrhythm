@@ -37,9 +37,9 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 | Period | Role | Organization |
 |:---|:---|:---|
-| Sep 2021 – Present | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Gov't-funded ticketing startup, ICT Division |
-| May 2018 – Present | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/wikitricks), YouTube Channel |
+| Sep 2021 – Present | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Govt. funded e-ticketing startup, ICT Division |
 | Mar 2025 – Dec 2025 | **General Member** | [IEEE Computer Society](https://ieeecsbdc.org/chapter/cs-jnu), JnU Student Branch |
+| May 2018 – Oct 2023 | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/wikitricks), YouTube Channel |
 
 ---
 
@@ -149,10 +149,13 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 | Project | Description | Tech | Link |
 |:---|:---|:---|:---:|
-| **Go Bangladesh Ticketing Platform** | Card-based digital ticketing platform for public transport in Bangladesh. Led V2 frontend dev, dashboard, and landing page for a platform serving thousands of daily passengers. | Next.js, TypeScript, Node.js, Tailwind CSS | [Visit](https://thegobd.com) |
-| **My Teletalk (Unofficial Web Client)** | Full-featured web client with RSA-OAEP encrypted auth, profile management, real-time balance tracking, 18+ proxy API endpoints, and Gen Z subscriber section. | Next.js 16, React 19, TypeScript, Cloudflare Turnstile | [Visit](https://myteletalk.vercel.app) |
-| **Bangladesh Railway Seat Info** | Real-time train seat availability system with seat count matrix. Open source, served 2,000+ daily users with 8,000+ API requests/day. | Python (Flask), JavaScript, React Native, REST API | [Visit](https://bdrailway.vercel.app) |
+| **Go Bangladesh E-Ticketing Platform** | Card-based digital ticketing platform for public transport in Bangladesh. Led V2 frontend dev, dashboard, and landing page for a platform serving thousands of daily passengers. | Next.js, TypeScript, Node.js, Tailwind CSS | [Visit](https://thegobd.com) |
+| **Bangladesh Railway Seat Info** | Real-time train seat availability system with seat count matrix. Have Android App, served 2,000+ daily users with 8,000+ API requests/day. | Python (Flask), JavaScript, React Native, REST API | [Visit](https://www.linkedin.com/in/nishatrhythm/details/projects) |
 | **GitHub Insights Generator** | Beautiful, customizable GitHub stats card generator with multiple themes, contribution graphs, and streak tracking. | TypeScript, GitHub API, SVG | [Visit](https://yourinsights.vercel.app) |
+| **My Teletalk (Unofficial Web Client)** | Full-featured web client with RSA-OAEP encrypted auth, profile management, real-time balance tracking, 20+ proxy API endpoints, and Gen Z subscriber section. | Next.js 16, React 19, TypeScript, Cloudflare Turnstile | [Visit](https://myteletalk.vercel.app) |
+| **Rapid Pass (Unofficial Web Client)** | Bilingual web dashboard for Rapid Pass users in Bangladesh with secure login, balance tracking, transaction history, and self-service support. | Next.js 16, React 19, Framer Motion, Sonner, Next Themes | [Visit](https://rapid-pass.vercel.app) |
+| **BPDB Prepaid Token Checker** | Serverless web application that retrieves prepaid meter details, recharge records, tariff information, and balance data through a secure backend proxy. | Redis, JavaScript, Cloudflare Pages Functions, HTML, CSS | [Visit](https://bpdb.pages.dev) |
+| **Railway Timetable Kiosk Manager** | Desktop manager and kiosk launcher for railway timetable displays with timetable editing, platform management, and full-screen station display support. | Python, HTML, JSON, Microsoft Edge Kiosk Mode | [Repo](https://github.com/nishatrhythm/Railway-Timetable-Kiosk-Manager) |
 | **DocLedger Dashboard** | Medical practice management dashboard for doctors, patients, appointments, operations, and finances. Supports English & Bengali. | Next.js, TypeScript, shadcn/ui | [Repo](https://github.com/nishatrhythm/docledger-dashboard) |
 | **Prayer Time Widget** | Lightweight widget displaying daily prayer times in Bangla for all 64 districts of Bangladesh. | Next.js, React, TypeScript | [Visit](https://prayerwidget.vercel.app) |
 | **Power Distributors API** | RESTful API providing data on power distribution companies in Bangladesh (BPDB, DESCO, DPDC, NESCO, WZPDCL, BREB). | Python, REST API, JSON | [Repo](https://github.com/nishatrhythm/Power-Distributors-of-Bangladesh) |
