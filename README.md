@@ -6,7 +6,7 @@
 <!-- HERO -->
 <h1 align="center">Nishat Mahmud</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=28&lines=Software+Engineer;Tech+Enthusiast;Content+Creator" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=28&lines=Software+Engineer;Tech+Enthusiast;CSE+Postgraduate+Student" alt="Roles" />
 </p>
 
 <br/>
