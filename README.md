@@ -6,7 +6,7 @@
 <!-- HERO -->
 <h1 align="center">Nishat Mahmud</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=28&lines=Software+Engineer;Tech+Enthusiast;CSE+Postgraduate+Student" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=28&lines=Software+Engineer;Adjunct+Lecturer;Tech+Enthusiast;CSE+Postgraduate+Student" alt="Roles" />
 </p>
 
 <br/>
@@ -27,9 +27,9 @@
 
 <h2 align="center">About</h2>
 
-Results-driven software engineer and entrepreneur with experience in web, mobile, and AI/ML development. Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy. Currently pursuing my **Master's in CSE** at Jagannath University, Dhaka, with research focused on **contactless ticketing using Ultra-Wideband (UWB) technology** for public transport.
+**Software engineer, entrepreneur, and adjunct lecturer** with experience in web, mobile, and AI/ML development. Currently an **Adjunct Lecturer at Uttara University**, alongside working on software development and technology-driven projects. Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy. Currently pursuing my Master's in CSE at **Jagannath University, Dhaka**, with research focused on **contactless ticketing using Ultra-Wideband (UWB) technology** for public transportation.
 
-I build scalable applications, integrate APIs, and deliver innovative solutions: real-time seat tracking systems serving 2,000+ daily users, CNN-based traffic sign classifiers, and full-featured web clients with encrypted authentication.
+I build scalable applications, integrate APIs, and develop practical solutions, including **real-time seat tracking systems serving 2,000+ daily users, CNN-based traffic sign classifiers, and full-featured web clients with encrypted authentication**.
 
 ---
 
@@ -37,6 +37,7 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 | Period | Role | Organization |
 |:---|:---|:---|
+| Sep 2026 – Present | **Adjunct Lecturer** | [Uttara University](https://www.uttara.ac.bd/) |
 | Sep 2021 – Jan 2026 | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Govt. funded e-ticketing startup, ICT Division |
 | Mar 2025 – Dec 2025 | **General Member** | [IEEE Computer Society](https://ieeecsbdc.org/chapter/cs-jnu), JnU Student Branch |
 | May 2018 – Oct 2023 | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/wikitricks), YouTube Channel |
@@ -206,12 +207,13 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 <h2 align="center">Achievements</h2>
 
-| Award | Segment | Issued By | Date | Certificate |
+| Award | Segment | Issued By | Date | Link |
 |:---|:---|:---|:---:|:---:|
+| 🏅 **M.Sc. Thesis Research Fellowship** | Thesis Research | [Jagannath University, Dhaka](https://jnu.ac.bd) | 6 Jul 2026 | [View](https://jnu.ac.bd/assets/notice/4c985bfc90c311ef77658ce543c6bba4.pdf) |
 | 🥇 **Champion** | Innovation Showcasing | [University Grants Commission of Bangladesh](https://ugc.gov.bd) | 18 Feb 2024 | [View](https://drive.google.com/file/d/18Ar4x6eitG7JidrW2MNw_OH_35Z7BCiA) |
 | 🥇 **Champion** | Project Showcase, Senior | [MBSTU Robo Tech Olympiad](https://mbstu.ac.bd) | 7 Feb 2023 | [View](https://drive.google.com/file/d/1WTQDTPLQE4jYFvX021I9mTm31AFVUZYR) |
 | 🥇 **Champion** | Idea Presentation | [MBSTU Robo Tech Olympiad](https://mbstu.ac.bd) | 7 Feb 2023 | [View](https://drive.google.com/file/d/1UhPNu_sKUZQ2P4d2eIrTj92kGV--Hvc3) |
-| 💰 **10 Lac BDT Fund** | Startup Project ("Go Bangladesh") | [iDEA, ICT Division](https://idea.gov.bd) | 6 Feb 2022 | — |
+| 💰 **10 Lac BDT Fund** | Startup Project ("Go Bangladesh") | [iDEA, ICT Division](https://idea.gov.bd) | 6 Feb 2022 | [Visit](https://idea.gov.bd/status/?startup=204) |
 | 🥈 **1st Runner-Up** | Robot & Project Exhibition | [JSTU, Jamalpur](https://jstu.ac.bd) | 15 Nov 2023 | [View](https://drive.google.com/file/d/1ArqZaSBIP6tI-HUJtP8iyZ_AucCh7DfD) |
 | 🥈 **1st Runner-Up** | Apps Showcasing | [JnU IT Society](https://jnuits.org.bd) | 15 Nov 2022 | [View](https://drive.google.com/file/d/1k0ax9FP5Nw4Z2ui5WaUJnYYzsDuBqiPw) |
 | 🥈 **1st Runner-Up** | Project Showcase, Senior | [NACTAR Robotics Olympiad](https://nactar.gov.bd) | 6 Aug 2022 | [View](https://drive.google.com/file/d/1Ypeza-QvUfs-EzkeGxVIDJ0x7OsgIiHF) |
