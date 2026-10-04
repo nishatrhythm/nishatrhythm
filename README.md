@@ -27,9 +27,9 @@
 
 <h2 align="center">About</h2>
 
-**Software engineer, entrepreneur, and adjunct lecturer** with experience in web, mobile, and AI/ML development. Currently an **Adjunct Lecturer at Uttara University**, alongside working on software development and technology-driven projects. Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy. Currently pursuing my Master's in CSE at **Jagannath University, Dhaka**, with research focused on **contactless ticketing using Ultra-Wideband (UWB) technology** for public transportation.
+Results-driven software engineer and entrepreneur with experience in web, mobile, and AI/ML development. Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy. Currently pursuing my **Master's in CSE** at Jagannath University, Dhaka, with research focused on **contactless ticketing using Ultra-Wideband (UWB) technology** for public transport.
 
-I build scalable applications, integrate APIs, and develop practical solutions, including **real-time seat tracking systems serving 2,000+ daily users, CNN-based traffic sign classifiers, and full-featured web clients with encrypted authentication**.
+I build scalable applications, integrate APIs, and deliver innovative solutions: real-time seat tracking systems serving 2,000+ daily users, CNN-based traffic sign classifiers, and full-featured web clients with encrypted authentication.
 
 ---
 
@@ -37,7 +37,6 @@ I build scalable applications, integrate APIs, and develop practical solutions, 
 
 | Period | Role | Organization |
 |:---|:---|:---|
-| Sep 2026 – Present | **Adjunct Lecturer** | [Uttara University](https://www.uttara.ac.bd/) |
 | Sep 2021 – Jan 2026 | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Govt. funded e-ticketing startup, ICT Division |
 | Mar 2025 – Dec 2025 | **General Member** | [IEEE Computer Society](https://ieeecsbdc.org/chapter/cs-jnu), JnU Student Branch |
 | May 2018 – Oct 2023 | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/wikitricks), YouTube Channel |
