@@ -6,7 +6,7 @@
 <!-- HERO -->
 <h1 align="center">Nishat Mahmud</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=28&lines=Software+Engineer;Adjunct+Lecturer;Tech+Enthusiast;CSE+Postgraduate+Student" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=450&height=28&lines=Lecturer+@+DIU;Software+Engineer;Tech+Enthusiast;CSE+Postgraduate+Student+@+JnU" alt="Roles" />
 </p>
 
 <br/>
@@ -27,9 +27,13 @@
 
 <h2 align="center">About</h2>
 
-Results-driven software engineer and entrepreneur with experience in web, mobile, and AI/ML development. Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy. Currently pursuing my **Master's in CSE** at Jagannath University, Dhaka, with research focused on **contactless ticketing using Ultra-Wideband (UWB) technology** for public transport.
+Software Engineer, Entrepreneur, and Contractual Lecturer at Daffodil International University, with experience in web, mobile, and AI/ML development. Currently teaching Object-Oriented Programming (Java and Python) and Introduction to Data Science, with a strong interest in bridging academic knowledge, software development, and real-world innovation.
 
-I build scalable applications, integrate APIs, and deliver innovative solutions: real-time seat tracking systems serving 2,000+ daily users, CNN-based traffic sign classifiers, and full-featured web clients with encrypted authentication.
+Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy.
+
+Experienced in building scalable applications, integrating APIs, and developing practical technology solutions, including real-time seat tracking systems serving 2,000+ daily users, CNN-based traffic sign classifiers, and web clients with encrypted authentication.
+
+Currently pursuing an M.Sc. in Computer Science and Engineering at Jagannath University, Dhaka, with research interests in contactless public transport ticketing using Ultra-Wideband (UWB) technology, software engineering, algorithms, and applied AI.
 
 ---
 
@@ -37,6 +41,7 @@ I build scalable applications, integrate APIs, and deliver innovative solutions:
 
 | Period | Role | Organization |
 |:---|:---|:---|
+| Oct 2026 – Present | **Lecturer (Contractual)** | [Daffodil International University](https://daffodilvarsity.edu.bd) |
 | Sep 2021 – Jan 2026 | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Govt. funded e-ticketing startup, ICT Division |
 | Mar 2025 – Dec 2025 | **General Member** | [IEEE Computer Society](https://ieeecsbdc.org/chapter/cs-jnu), JnU Student Branch |
 | May 2018 – Oct 2023 | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/wikitricks), YouTube Channel |
