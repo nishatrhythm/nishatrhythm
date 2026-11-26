@@ -27,7 +27,7 @@
 
 <h2 align="center">About</h2>
 
-Software Engineer, Entrepreneur, and Contractual Lecturer at Daffodil International University, with experience in web, mobile, and AI/ML development. Currently teaching Object-Oriented Programming (Java and Python) and Introduction to Data Science, with a strong interest in bridging academic knowledge, software development, and real-world innovation.
+Software Engineer, Entrepreneur, and Lecturer at Daffodil International University, with experience in web, mobile, and AI/ML development. Currently teaching Object-Oriented Programming (Java and Python) and Introduction to Data Science, with a strong interest in bridging academic knowledge, software development, and real-world innovation.
 
 Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy.
 
@@ -41,7 +41,7 @@ Currently pursuing an M.Sc. in Computer Science and Engineering at Jagannath Uni
 
 | Period | Role | Organization |
 |:---|:---|:---|
-| Oct 2026 – Present | **Lecturer (Contractual)** | [Daffodil International University](https://daffodilvarsity.edu.bd) |
+| Oct 2026 – Present | **Lecturer** | [Daffodil International University](https://daffodilvarsity.edu.bd) |
 | Sep 2021 – Jan 2026 | **Co-Founder & Front-end Developer** | [Go Bangladesh](https://thegobd.com), Govt. funded e-ticketing startup, ICT Division |
 | Mar 2025 – Dec 2025 | **General Member** | [IEEE Computer Society](https://ieeecsbdc.org/chapter/cs-jnu), JnU Student Branch |
 | May 2018 – Oct 2023 | **Founder & Tech Content Creator** | [Wikitricks](https://youtube.com/wikitricks), YouTube Channel |
